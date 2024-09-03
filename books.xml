@@ -602,6 +602,181 @@
         <format>Blu-ray</format>
         <img>darktower.jpg</img>
     </steelbook>
+    <steelbook>
+        <title>Deadpool</title>
+        <alias>-</alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>deadpool.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Deadpool 2</title>
+        <alias>-</alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>deadpool.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Game of Thrones: Season 1</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>got1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Game of Thrones: Season 2</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>got2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Game of Thrones: Season 3</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>got3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Game of Thrones: Season 4</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>got4.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Game of Thrones: Season 5</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>got5.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Game of Thrones: Season 6</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>got6.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>How to Train Your Dragon</title>
+        <alias>-</alias>
+        <release>2010</release>
+        <format>Blu-ray</format>
+        <img>httyd1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>How to Train Your Dragon 2</title>
+        <alias>-</alias>
+        <release>2014</release>
+        <format>Blu-ray</format>
+        <img>httyd2.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>How to Train Your Dragon 3</title>
+        <alias>-</alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>httyd3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Knock at the Cabin</title>
+        <alias>-</alias>
+        <release>2023</release>
+        <format>Blu-ray</format>
+        <img>knockcabin.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Cabin in the Woods</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>cabinwoods.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Maze Runner</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Maze Runner: Scorched Earth</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Maze Runner: Death Cure</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hp1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Harry Potter and the Chamber of Secrets</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hp2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Harry Potter and the Prisoner of Azkaban</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hp3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Harry Potter and the Goblet of Fire</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hp4.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Harry Potter and the Order of Phoenix</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hp5.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Harry Potter and the Half-Blooded Prince</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hp6.jpg</img>
+    </steelbook>
+        <steelbook>
+        <title>Harry Potter and the Deathly Hallows: Part 1</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hp7.jpg</img>
+    </steelbook>
+        <steelbook>
+        <title>Harry Potter and the Deathly Hallows: Part 2</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hp8.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title></title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>.jpg</img>
+    </steelbook>
     <!--
     <steelbook>
         <title></title>
