@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<steelbooks>
+    <steelbook>
+        <title>Lord of the Rings: Fellowship of the ring</title>
+        <alias>Zavvi</alias>
+        <release>2001</release>
+        <format>Blu-ray + 4k</format>
+        <img>lotr-fotr.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Lord of the Rings: Two Towers</title>
+        <alias>Zavvi</alias>
+        <release>2002</release>
+        <format>Blu-ray + 4k</format>
+        <img>lotr-tt.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Lord of the Rings: Return of the King</title>
+        <alias>Zavvi</alias>
+        <release>2003</release>
+        <format>Blu-ray + 4k</format>
+        <img>lotr-rotk.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Hobbit: An Unexpected Journey</title>
+        <alias>Zavvi</alias>
+        <release>2012</release>
+        <format>Blu-ray</format>
+        <img>hobbit-uj.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Hobbit: The Desolation of Smaug</title>
+        <alias>Zavvi</alias>
+        <release>2013</release>
+        <format>Blu-ray</format>
+        <img>hobbit-dos.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Hobbit: The Battle of the Five Armies</title>
+        <alias>Zavvi</alias>
+        <release>2014</release>
+        <format>Blu-ray</format>
+        <img>hobbit-botfa.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Ghostbusters</title>
+        <alias>Project Popart</alias>
+        <release>1984</release>
+        <format>Blu-ray</format>
+        <img>ghostbusters.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Ghostbusters 2</title>
+        <alias>Project Popart</alias>
+        <release>1989</release>
+        <format>Blu-ray</format>
+        <img>ghostbusters2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Ghostbusters</title>
+        <alias>Project Popart</alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>ghostbustersf.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Halloween II</title>
+        <alias>Scream Factory</alias>
+        <release>1981</release>
+        <format>Blu-ray</format>
+        <img>hween2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Motel Hell</title>
+        <alias>Scream Factory</alias>
+        <release>1980</release>
+        <format>Blu-ray</format>
+        <img>motelhell.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Slumber Party Massacre</title>
+        <alias>Scream Factory</alias>
+        <release>1982</release>
+        <format>Blu-ray</format>
+        <img>slumberparty.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Battle Beyond The Stars</title>
+        <alias>Scream Factory</alias>
+        <release>1980</release>
+        <format>Blu-ray</format>
+        <img>battlebeyond.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Serenity</title>
+        <alias>Reel Heroes</alias>
+        <release>2005</release>
+        <format>Blu-ray</format>
+        <img>serenity.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Hellraiser 1-3</title>
+        <alias>-</alias>
+        <release>1987</release>
+        <format>Blu-ray</format>
+        <img>hellraiser-trilogy.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Carrie</title>
+        <alias>Arrow</alias>
+        <release>1976</release>
+        <format>Blu-ray</format>
+        <img>carrie.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Chucky: Season 1</title>
+        <alias>Zavvi</alias>
+        <release>2021</release>
+        <format>Blu-ray</format>
+        <img>chuckys1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Child's Play</title>
+        <alias>-</alias>
+        <release>1988</release>
+        <format>Blu-ray</format>
+        <img>childsplay1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Child's Play 2</title>
+        <alias>-</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>childsplay2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Child's Play 3</title>
+        <alias>-</alias>
+        <release>1991</release>
+        <format>Blu-ray</format>
+        <img>childsplay3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Candyman</title>
+        <alias>Zavvi</alias>
+        <release>1992</release>
+        <format>Blu-ray</format>
+        <img>candyman.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Dracula</title>
+        <alias>Alex Ross</alias>
+        <release>1931</release>
+        <format>Blu-ray</format>
+        <img>dracula.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Frankenstein</title>
+        <alias>Alex Ross</alias>
+        <release>1931</release>
+        <format>Blu-ray</format>
+        <img>frank.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Wolf Man</title>
+        <alias>Alex Ross</alias>
+        <release>1941</release>
+        <format>Blu-ray</format>
+        <img>wolf.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Invisible man</title>
+        <alias>Alex Ross</alias>
+        <release>1933</release>
+        <format>Blu-ray</format>
+        <img>invisible.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Mummy</title>
+        <alias>Alex Ross</alias>
+        <release>1932</release>
+        <format>Blu-ray</format>
+        <img>mummy.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Bride of Frankenstein</title>
+        <alias>Alex Ross</alias>
+        <release>1935</release>
+        <format>Blu-ray</format>
+        <img>bride.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Creature from Black Lagoon</title>
+        <alias>Alex Ross</alias>
+        <release>1954</release>
+        <format>Blu-ray</format>
+        <img>lagoon.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Avatar</title>
+        <alias>-</alias>
+        <release>2009</release>
+        <format>Blu-ray</format>
+        <img>avatar.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Avatar: Way of the Water</title>
+        <alias>-</alias>
+        <release>2022</release>
+        <format>Blu-ray</format>
+        <img>avatar2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Back to the Future</title>
+        <alias>Zavvi</alias>
+        <release>1985</release>
+        <format>Blu-ray</format>
+        <img>backfuture.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Back to the Future 2</title>
+        <alias>Zavvi</alias>
+        <release>1989</release>
+        <format>Blu-ray</format>
+        <img>backfuture2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Back to the Future 3</title>
+        <alias>Zavvi</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>backfuture3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 1</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 2</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 3</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 4</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead4.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 5</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead5.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 6</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead6.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Walking Dead: Season 7</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead7.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 8</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead8.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 9</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead9.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Walking Dead: Season 10</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead10.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Walking Dead: Season 11</title>
+        <alias>Jock</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>walkingdead11.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Nosferatu the Vampyre</title>
+        <alias>-</alias>
+        <release>1979</release>
+        <format>Blu-ray</format>
+        <img>nosferatu.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Ready Player One</title>
+        <alias>Zavvi</alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>rpone.jpg</img>
+    </steelbook>   
+    <steelbook>
+        <title>Zombieland</title>
+        <alias>Project Popart</alias>
+        <release>2009</release>
+        <format>Blu-ray</format>
+        <img>zombieland.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Popstar: Never Stop Never Stopping</title>
+        <alias>Project Popart</alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>popstar.jpg</img>
+    </steelbook>   
+    <steelbook>
+        <title>Sharknado</title>
+        <alias>Project Popart</alias>
+        <release>2013</release>
+        <format>Blu-ray</format>
+        <img>sharknado.jpg</img>
+    </steelbook>   
+    <steelbook>
+        <title>Pineapple Express</title>
+        <alias>Project Popart</alias>
+        <release>2008</release>
+        <format>Blu-ray</format>
+        <img>pineapple.jpg</img>
+    </steelbook>   
+    <steelbook>
+        <title>Resident Evil</title>
+        <alias>Project Popart</alias>
+        <release>2002</release>
+        <format>Blu-ray</format>
+        <img>re.jpg</img>
+    </steelbook>     
+    <steelbook>
+        <title>Resident Evil: Apocalypse</title>
+        <alias>Project Popart</alias>
+        <release>2004</release>
+        <format>Project Popart</format>
+        <img>re2.jpg</img>
+    </steelbook>   
+    <steelbook>
+        <title>Resident Evil: Extinction</title>
+        <alias>Project Popart</alias>
+        <release>2007</release>
+        <format>Blu-ray</format>
+        <img>re3.jpg</img>
+    </steelbook>   
+    <steelbook>
+        <title>Resident Evil: Afterlife</title>
+        <alias>Project Popart</alias>
+        <release>2010</release>
+        <format>Blu-ray</format>
+        <img>re4.jpg</img>
+    </steelbook>   
+    <steelbook>
+        <title>Resident Evil: Retribution</title>
+        <alias>Project Popart</alias>
+        <release>2012</release>
+        <format>Blu-ray</format>
+        <img>re5.jpg</img>
+    </steelbook>   
+    <steelbook>
+        <title>Resident Evil: The Final Chapter</title>
+        <alias>Project Popart</alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>re6.jpg</img>
+    </steelbook>   
+     <steelbook>
+        <title>Breaking Bad: Season 1</title>
+        <alias>Steadman</alias>
+        <release>2008</release>
+        <format>Blu-ray</format>
+        <img>bb1.jpg</img>
+    </steelbook>
+     <steelbook>
+        <title>Breaking Bad: Season 2</title>
+        <alias>Steadman</alias>
+        <release>2008</release>
+        <format>Blu-ray</format>
+        <img>bb2.jpg</img>
+    </steelbook>
+     <steelbook>
+        <title>Breaking Bad: Season 3</title>
+        <alias>Steadman</alias>
+        <release>2008</release>
+        <format>Blu-ray</format>
+        <img>bb3.jpg</img>
+    </steelbook>
+     <steelbook>
+        <title>Breaking Bad: Season 4</title>
+        <alias>Steadman</alias>
+        <release>2008</release>
+        <format>Blu-ray</format>
+        <img>bb4.jpg</img>
+    </steelbook>
+     <steelbook>
+        <title>Breaking Bad: Season 5</title>
+        <alias>Steadman</alias>
+        <release>2008</release>
+        <format>Blu-ray</format>
+        <img>bb5.jpg</img>
+    </steelbook>
+     <steelbook>
+        <title>Breaking Bad: Season Finale</title>
+        <alias>Steadman</alias>
+        <release>2008</release>
+        <format>Blu-ray</format>
+        <img>bbf.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Spring</title>
+        <alias>-</alias>
+        <release>2014</release>
+        <format>Blu-ray</format>
+        <img>spring.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Jurassic Park</title>
+        <alias>-</alias>
+        <release>1993</release>
+        <format>Blu-ray</format>
+        <img>jp1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Jurassic Park: The Lost World</title>
+        <alias>-</alias>
+        <release>1997</release>
+        <format>Blu-ray</format>
+        <img>jp2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Jurassic Park 3</title>
+        <alias>-</alias>
+        <release>2001</release>
+        <format>Blu-ray</format>
+        <img>jp3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Jurassic World</title>
+        <alias>-</alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>jw1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Jurassic World: Fallen Kingdom</title>
+        <alias>-</alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>jw2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Jurassic World: Dominion</title>
+        <alias>-</alias>
+        <release>2022</release>
+        <format>Blu-ray</format>
+        <img>jw3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Friday the 13th</title>
+        <alias>-</alias>
+        <release>1980</release>
+        <format>Blu-ray</format>
+        <img>f13_2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Friday the 13th</title>
+        <alias>Mondo</alias>
+        <release>1980</release>
+        <format>Blu-ray</format>
+        <img>f13.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Finding Dory</title>
+        <alias>-</alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>dory.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>It</title>
+        <alias>-</alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>itog.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>It: Chapter One</title>
+        <alias>Zavvi Collection</alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>it1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>It: Chapter Two</title>
+        <alias>Zavvi Collection</alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>it2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>It: Chapter Two</title>
+        <alias>-</alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>it2_2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Hereditary</title>
+        <alias>-</alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>hereditary.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>A Star is Born</title>
+        <alias>-</alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>sib.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Train to Busan + Seoul Station</title>
+        <alias>-</alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>busanstation.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Peninsula</title>
+        <alias>-</alias>
+        <release>2020</release>
+        <format>Blu-ray</format>
+        <img>peninsula.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Parasite</title>
+        <alias>-</alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>parasite.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Black Sails: Season 1-2</title>
+        <alias>-</alias>
+        <release>2014</release>
+        <format>Blu-ray</format>
+        <img>blacksails1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Black Sails: Season 3-4</title>
+        <alias>-</alias>
+        <release>2014</release>
+        <format>Blu-ray</format>
+        <img>blacksails2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>American Gods: Season 1</title>
+        <alias>-</alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>ags1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Tucker and Dale vs. Evil</title>
+        <alias>-</alias>
+        <release>2010</release>
+        <format>Blu-ray</format>
+        <img>tucker.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Dark Tower</title>
+        <alias>-</alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>darktower.jpg</img>
+    </steelbook>
+    <!--
+    <steelbook>
+        <title></title>
+        <alias></alias>
+        <release></release>
+        <format></format>
+        <img></img>
+    </steelbook>
+    -->
+</steelbooks>

@@ -1,0 +1,120 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Steelbooker</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <script src="scripts.js"></script>
+        <div class="navside">
+            <div class="navtext">Steelbooker</div>
+            <div class="filterToggle"> 
+                <input type="checkbox" id="wishlist" name="wishlist" checked />
+                <label class="filterLabel" for="wishlist">Show Wishlist</label>
+            </div>
+            <div class="filterToggle">
+                <input type="checkbox" id="wishlist" name="wishlist" checked />
+                <label class="filterLabel" for="wishlist">Show Owned</label>
+            </div>
+            <div class="filterToggle">
+                <input type="checkbox" id="wishlist" name="wishlist" checked />
+                <label class="filterLabel" for="wishlist">Show Not Owned</label>
+            </div>
+            <button onclick=AddSteelbook()></button>
+        </div>
+        <div class="collection">
+            <div class="collectiontitle">COLLECTION</div>
+            <div class="sb-list" id="bookparent">
+               <div class="sb-preview">
+                    <p class="sb-tag" title="Lord of The Rings: Fellowship of the Ring">Lord of The Rings: Fellowship of the Ring</p>
+                    <div class="sb-tag half" title="Release Year: 2001" >2001</div>
+                    <div class="sb-tag half right">Zavvi</div>
+                    <div class="sb-imageview">
+                        <img class="sb-image" src="images/steelbooks/lotr-fotr.jpg"/>
+                    </div>
+                    <div class="sb-tag half">Blu-ray + 4K</div>
+                    <div class="sb-tag half right">NOT OWNED</div>
+                </div>
+                <div class="sb-preview">
+                    <div class="sb-title">Lord of The Rings: Two Towers</div>
+                    <div class="sb-releaseyear">2002</div>
+                    <div class="sb-alias">Zavvi</div>
+                    <div class="sb-imageview">
+                        <img class="sb-image" src="images/steelbooks/lotr-tt.jpg"/>
+                    </div>
+                    <div class="sb-format">Blu-ray + 4K</div>
+                    <div class="sb-status">NOT OWNED</div>
+                </div>
+                <div class="sb-preview">
+                    <div class="sb-title">Lord of The Rings: Return of The King</div>
+                    <div class="sb-releaseyear">2003</div>
+                    <div class="sb-alias">Zavvi</div>
+                    <div class="sb-imageview">
+                        <img class="sb-image" src="images/steelbooks/lotr-rotk.jpg"/>
+                    </div>
+                    <div class="sb-format">Blu-ray + 4K</div>
+                    <div class="sb-status">NOT OWNED</div>
+                </div>
+
+                <div class="sb-preview">
+                    <div class="sb-title">Ghostbusters</div>
+                    <div class="sb-releaseyear">1984</div>
+                    <div class="sb-alias">Project Popart</div>
+                    <div class="sb-imageview">
+                        <img class="sb-image" src="images/steelbooks/ghostbusters.jpg"/>
+                    </div>
+                    <div class="sb-format">Blu-ray</div>
+                    <div class="sb-status">NOT OWNED</div>
+                </div>
+                <div class="sb-preview">
+                    <div class="sb-title">Halloween II</div>
+                    <div class="sb-releaseyear">1981</div>
+                    <div class="sb-alias">Scream Factory</div>
+                    <div class="sb-imageview">
+                        <img class="sb-image" src="images/steelbooks/hween2.jpg"/>
+                    </div>
+                    <div class="sb-format">Blu-ray</div>
+                    <div class="sb-status">NOT OWNED</div>
+                </div>
+                <div class="sb-preview">
+                    <div class="sb-title">Serenity</div>
+                    <div class="sb-releaseyear">2005</div>
+                    <div class="sb-alias">Reel Heroes</div>
+                    <div class="sb-imageview">
+                        <img class="sb-image" src="images/steelbooks/serenity.jpg"/>
+                    </div>
+                    <div class="sb-format">Blu-ray</div>
+                    <div class="sb-status">NOT OWNED</div>
+                </div>
+            </div>
+        </div>
+        <script type="module">
+            // Import the functions you need from the SDKs you need
+            import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js";
+            import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-analytics.js";
+            // TODO: Add SDKs for Firebase products that you want to use
+            // https://firebase.google.com/docs/web/setup#available-libraries
+          
+            // Your web app's Firebase configuration
+            // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+            const firebaseConfig = {
+              apiKey: "AIzaSyCJO9rU_KNITlNHLCLEJTjkKJ2E4K3npcg",
+              authDomain: "steelbooker-7311b.firebaseapp.com",
+              projectId: "steelbooker-7311b",
+              storageBucket: "steelbooker-7311b.appspot.com",
+              messagingSenderId: "1073337651473",
+              appId: "1:1073337651473:web:acde4c890c6999512f7cb0",
+              measurementId: "G-TF1W0CDVJ0"
+            };
+          
+            // Initialize Firebase
+            const app = initializeApp(firebaseConfig);
+            const analytics = getAnalytics(app);
+          </script>
+    </body>
+</html>
