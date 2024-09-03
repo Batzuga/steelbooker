@@ -771,7 +771,21 @@
         <img>hp8.jpg</img>
     </steelbook>
     <steelbook>
-        <title></title>
+        <title>Fantastic Beasts and Where to Find Them</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Fantastic Beasts: The Crimes of Grindelwald</title>
+        <alias>-</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Fantastic Beasts: The Secrets of Dumbledore</title>
         <alias>-</alias>
         <release></release>
         <format>Blu-ray</format>
