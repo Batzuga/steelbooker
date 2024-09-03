@@ -232,77 +232,77 @@
         <img>backfuture3.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 1</title>
+        <title>The Walking Dead: Season 1</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead1.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 2</title>
+        <title>The Walking Dead: Season 2</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead2.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 3</title>
+        <title>The Walking Dead: Season 3</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead3.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 4</title>
+        <title>The Walking Dead: Season 4</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead4.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 5</title>
+        <title>The Walking Dead: Season 5</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead5.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 6</title>
+        <title>The Walking Dead: Season 6</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead6.jpg</img>
     </steelbook>    
     <steelbook>
-        <title>Walking Dead: Season 7</title>
+        <title>The Walking Dead: Season 7</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead7.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 8</title>
+        <title>The Walking Dead: Season 8</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead8.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 9</title>
+        <title>The Walking Dead: Season 9</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead9.jpg</img>
     </steelbook>    
     <steelbook>
-        <title>Walking Dead: Season 10</title>
+        <title>The Walking Dead: Season 10</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
         <img>walkingdead10.jpg</img>
     </steelbook>
     <steelbook>
-        <title>Walking Dead: Season 11</title>
+        <title>The Walking Dead: Season 11</title>
         <alias>Jock</alias>
         <release>1990</release>
         <format>Blu-ray</format>
@@ -774,7 +774,7 @@
         <title>Fantastic Beasts and Where to Find Them</title>
         <alias>-</alias>
         <release>2016</release>
-        <format>Blu-ray</format>
+        <format>Blu-ray + 3D</format>
         <img>fb1.jpg</img>
     </steelbook>
     <steelbook>
@@ -909,6 +909,146 @@
         <release>1987</release>
         <format>Blu-ray</format>
         <img>ed2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Baby Driver</title>
+        <alias></alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>baby.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Battle Royale</title>
+        <alias></alias>
+        <release>2000</release>
+        <format>Blu-ray</format>
+        <img>battleroyale.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Captain Marvel</title>
+        <alias></alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>cptmarv.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Venom</title>
+        <alias></alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>venom.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Spider-Man: Homecoming</title>
+        <alias></alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>spiderhome.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Black Panther</title>
+        <alias></alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>panther.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Captain America: Civil War</title>
+        <alias></alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>civwar.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Avengers: Infinity War</title>
+        <alias></alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>infwar.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Avengers: Endgame</title>
+        <alias></alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>endgame.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Casino Royale</title>
+        <alias></alias>
+        <release>2006</release>
+        <format>Blu-ray</format>
+        <img>casinoroyale.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Ant-man and the Wasp</title>
+        <alias></alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>antwasp.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Hurt Locker</title>
+        <alias>2008</alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>hurtlocker.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Guardians of the Galaxy Vol.2</title>
+        <alias></alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>guardians.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Gremlins</title>
+        <alias></alias>
+        <release>1984</release>
+        <format>Blu-ray</format>
+        <img>gremlins.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>A Clockwork Orange</title>
+        <alias></alias>
+        <release>1971</release>
+        <format>Blu-ray</format>
+        <img>orange.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Straight Outta Compton</title>
+        <alias></alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>compton.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Shazam</title>
+        <alias></alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>shazam.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Aquaman</title>
+        <alias></alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>aquaman.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Justice League</title>
+        <alias></alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>justice.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title></title>
+        <alias></alias>
+        <release></release>
+        <format>Blu-ray</format>
+        <img>.jpg</img>
     </steelbook>
     <!--
     <steelbook>
