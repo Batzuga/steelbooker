@@ -25,72 +25,48 @@
                 <input type="checkbox" id="wishlist" name="wishlist" checked />
                 <label class="filterLabel" for="wishlist">Show Not Owned</label>
             </div>
-            <button onclick=AddSteelbook()></button>
+            <br>
+            <label style="margin-left: 25px; color: white;" for="Collection">Collection</label>
+            <select style="margin: 0 25px 5px 25px" id="Collection">
+                <option value="">--Pick a filter--</option>
+            </select>
+            <label style="margin-left: 25px; color: white;" for="Format">Format</label>
+            <select style="margin: 0 25px" id="Format">
+                <option value="">--Pick a filter--</option>
+            </select>
+
+            <br>
+            <button class="search" onclick=AddSteelbook()>Update</button>
+            <br>
+            <br>
+            <br>
+            <div class="navtext">Add Steelbook</div>
+
+            <label class="addlabel" for="movietitle">Title</label>
+            <input class="addfield" type="textbox" id="movietitle"/>
+
+            <label class="addlabel" for="moviecollection">Collection</label>
+            <input class="addfield" type="textbox" id="moviecollection"/>
+
+            <label class="addlabel" for="movierelease">Release Year</label>
+            <input class="addfield" type="textbox" id="movierelease"/>
+
+            <label sclass="addlabel" for="movieformat">Format</label>
+            <input class="addfield" type="textbox" id="movieformat"/>
+
+            <label class="addlabel" for="movieimg">Image</label>
+            <input style="width: 200px; margin-left: 25px; color: #ada05e" type="file" id="movieimg"/>
+            <br>
+            <label class="addlabel" for="movieextra">Extra Info</label>
+            <input class="addfield" type="textbox" id="movieextra"/>
+
+            <button class="search" onclick=AddSteelbook()>Add</button>
         </div>
         <div class="collection">
             <div class="collectiontitle">COLLECTION</div>
+            <div id="found" class="collectionresults">Found 0</div>
             <div class="sb-list" id="bookparent">
-               <div class="sb-preview">
-                    <p class="sb-tag" title="Lord of The Rings: Fellowship of the Ring">Lord of The Rings: Fellowship of the Ring</p>
-                    <div class="sb-tag half" title="Release Year: 2001" >2001</div>
-                    <div class="sb-tag half right">Zavvi</div>
-                    <div class="sb-imageview">
-                        <img class="sb-image" src="images/steelbooks/lotr-fotr.jpg"/>
-                    </div>
-                    <div class="sb-tag half">Blu-ray + 4K</div>
-                    <div class="sb-tag half right">NOT OWNED</div>
-                </div>
-                <div class="sb-preview">
-                    <div class="sb-title">Lord of The Rings: Two Towers</div>
-                    <div class="sb-releaseyear">2002</div>
-                    <div class="sb-alias">Zavvi</div>
-                    <div class="sb-imageview">
-                        <img class="sb-image" src="images/steelbooks/lotr-tt.jpg"/>
-                    </div>
-                    <div class="sb-format">Blu-ray + 4K</div>
-                    <div class="sb-status">NOT OWNED</div>
-                </div>
-                <div class="sb-preview">
-                    <div class="sb-title">Lord of The Rings: Return of The King</div>
-                    <div class="sb-releaseyear">2003</div>
-                    <div class="sb-alias">Zavvi</div>
-                    <div class="sb-imageview">
-                        <img class="sb-image" src="images/steelbooks/lotr-rotk.jpg"/>
-                    </div>
-                    <div class="sb-format">Blu-ray + 4K</div>
-                    <div class="sb-status">NOT OWNED</div>
-                </div>
-
-                <div class="sb-preview">
-                    <div class="sb-title">Ghostbusters</div>
-                    <div class="sb-releaseyear">1984</div>
-                    <div class="sb-alias">Project Popart</div>
-                    <div class="sb-imageview">
-                        <img class="sb-image" src="images/steelbooks/ghostbusters.jpg"/>
-                    </div>
-                    <div class="sb-format">Blu-ray</div>
-                    <div class="sb-status">NOT OWNED</div>
-                </div>
-                <div class="sb-preview">
-                    <div class="sb-title">Halloween II</div>
-                    <div class="sb-releaseyear">1981</div>
-                    <div class="sb-alias">Scream Factory</div>
-                    <div class="sb-imageview">
-                        <img class="sb-image" src="images/steelbooks/hween2.jpg"/>
-                    </div>
-                    <div class="sb-format">Blu-ray</div>
-                    <div class="sb-status">NOT OWNED</div>
-                </div>
-                <div class="sb-preview">
-                    <div class="sb-title">Serenity</div>
-                    <div class="sb-releaseyear">2005</div>
-                    <div class="sb-alias">Reel Heroes</div>
-                    <div class="sb-imageview">
-                        <img class="sb-image" src="images/steelbooks/serenity.jpg"/>
-                    </div>
-                    <div class="sb-format">Blu-ray</div>
-                    <div class="sb-status">NOT OWNED</div>
-                </div>
+                <div>Getting movies...</div>
             </div>
         </div>
         <script type="module">

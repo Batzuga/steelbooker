@@ -694,98 +694,168 @@
         <img>cabinwoods.jpg</img>
     </steelbook>    
     <steelbook>
-        <title>Maze Runner</title>
+        <title>The Maze Runner</title>
         <alias>-</alias>
-        <release></release>
+        <release>2014</release>
         <format>Blu-ray</format>
         <img>.jpg</img>
     </steelbook>    
     <steelbook>
         <title>Maze Runner: Scorched Earth</title>
         <alias>-</alias>
-        <release></release>
+        <release>2015</release>
         <format>Blu-ray</format>
         <img>.jpg</img>
     </steelbook>    
     <steelbook>
-        <title>Maze Runner: Death Cure</title>
+        <title>Maze Runner: The Death Cure</title>
         <alias>-</alias>
-        <release></release>
+        <release>2018</release>
         <format>Blu-ray</format>
         <img>.jpg</img>
     </steelbook>    
     <steelbook>
         <title>Harry Potter and the Philosopher's Stone</title>
         <alias>-</alias>
-        <release></release>
+        <release>2001</release>
         <format>Blu-ray</format>
         <img>hp1.jpg</img>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Chamber of Secrets</title>
         <alias>-</alias>
-        <release></release>
+        <release>2002</release>
         <format>Blu-ray</format>
         <img>hp2.jpg</img>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Prisoner of Azkaban</title>
         <alias>-</alias>
-        <release></release>
+        <release>2004</release>
         <format>Blu-ray</format>
         <img>hp3.jpg</img>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Goblet of Fire</title>
         <alias>-</alias>
-        <release></release>
+        <release>2005</release>
         <format>Blu-ray</format>
         <img>hp4.jpg</img>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Order of Phoenix</title>
         <alias>-</alias>
-        <release></release>
+        <release>2007</release>
         <format>Blu-ray</format>
         <img>hp5.jpg</img>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Half-Blooded Prince</title>
         <alias>-</alias>
-        <release></release>
+        <release>2009</release>
         <format>Blu-ray</format>
         <img>hp6.jpg</img>
     </steelbook>
         <steelbook>
         <title>Harry Potter and the Deathly Hallows: Part 1</title>
         <alias>-</alias>
-        <release></release>
+        <release>2010</release>
         <format>Blu-ray</format>
         <img>hp7.jpg</img>
     </steelbook>
         <steelbook>
         <title>Harry Potter and the Deathly Hallows: Part 2</title>
         <alias>-</alias>
-        <release></release>
+        <release>2011</release>
         <format>Blu-ray</format>
         <img>hp8.jpg</img>
     </steelbook>
     <steelbook>
         <title>Fantastic Beasts and Where to Find Them</title>
         <alias>-</alias>
-        <release></release>
+        <release>2016</release>
         <format>Blu-ray</format>
-        <img>.jpg</img>
+        <img>fanta.jpg</img>
     </steelbook>
     <steelbook>
         <title>Fantastic Beasts: The Crimes of Grindelwald</title>
         <alias>-</alias>
-        <release></release>
+        <release>2018</release>
         <format>Blu-ray</format>
-        <img>.jpg</img>
+        <img>fanta2.jpg</img>
     </steelbook>
     <steelbook>
         <title>Fantastic Beasts: The Secrets of Dumbledore</title>
+        <alias>-</alias>
+        <release>2022</release>
+        <format>Blu-ray</format>
+        <img>fanta3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Men in Black International</title>
+        <alias>-</alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>mib4.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Fast and the Furious</title>
+        <alias>-</alias>
+        <release>2001</release>
+        <format>Blu-ray</format>
+        <img>ff.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>2 Fast 2 Furious</title>
+        <alias>-</alias>
+        <release>2003</release>
+        <format>Blu-ray</format>
+        <img>ff2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Fast and the Furious: Tokyo Drift</title>
+        <alias>-</alias>
+        <release>2006</release>
+        <format>Blu-ray</format>
+        <img>ff3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Fast and Furious</title>
+        <alias>-</alias>
+        <release>2009</release>
+        <format>Blu-ray</format>
+        <img>ff4.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Fast Five</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>ff5.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Fast and Furious 6</title>
+        <alias>-</alias>
+        <release>2013</release>
+        <format>Blu-ray</format>
+        <img>ff6.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Furious 7</title>
+        <alias>-</alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>ff7.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Fate of the Furious</title>
+        <alias>-</alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>ff8.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title></title>
         <alias>-</alias>
         <release></release>
         <format>Blu-ray</format>

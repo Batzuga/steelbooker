@@ -1,27 +1,26 @@
 <search>
-    <collections>
-        <collection>
-            <name>Zavvi</name>
-            <name>Mexifunk</name>
-            <name>Scream Factory</name>
-            <name>Shout Factory</name>
-            <name>Project Popart</name>
-            <name>Reel Heroes</name>
-            <name>Mondo</name>
-            <name>Best Buy</name>
-            <name>Alex Ross</name>
-            <name>Film Vault</name>
-            <name>Film Arena</name>
-            <name>Iconinc Moments</name>
-            <name>Arrow</name>
-            <name>Jock</name>
-            <name>Steadman</name>
-        </collection>
-        <formats>
-            <format>Blu-ray</format>
-            <format>Blu-ray + 4K</format>
-            <format>4K</format>           
-            <format>DVD</format>      
-        </formats>
-    </collections>
+    <collection>
+        <name>Zavvi</name>
+        <name>Mexifunk</name>
+        <name>Scream Factory</name>
+        <name>Shout Factory</name>
+        <name>Project Popart</name>
+        <name>Reel Heroes</name>
+        <name>Mondo</name>
+        <name>Best Buy</name>
+        <name>Alex Ross</name>
+        <name>Film Vault</name>
+        <name>Film Arena</name>
+        <name>Iconinc Moments</name>
+        <name>Arrow</name>
+        <name>Jock</name>
+        <name>Steadman</name>
+    </collection>
+    <formats>
+        <format>Blu-ray</format>
+        <format>Blu-ray + 4K</format>
+        <format>Blu-ray + DVD</format>
+        <format>4K</format>           
+        <format>DVD</format>      
+    </formats>
 </search>

@@ -42,6 +42,7 @@ function CreateList(xmlDoc)
     let full = "";
     var books = xmlDoc.getElementsByTagName("steelbook");
     console.log(books);
+    var itemsFound = 0;
     for(i = 0; i < books.length; i++)
     {
         var year = books[i].getElementsByTagName("release")[0].innerHTML;
@@ -50,6 +51,7 @@ function CreateList(xmlDoc)
         var title = books[i].getElementsByTagName("title")[0].innerHTML;
         var img = books[i].getElementsByTagName("img")[0].innerHTML;
         if(title.length == 0 || title == "") continue;
+        itemsFound++;
         let part = `
         <div class="sb-preview">
             <p class="sb-tag" title="${title}">${title}</p>
@@ -66,6 +68,7 @@ function CreateList(xmlDoc)
     }
     
     document.getElementById("bookparent").innerHTML = full;
+    document.getElementById("found").innerHTML = "Steelbooks Found: " + itemsFound;
 }
 
 function SendRequest()
