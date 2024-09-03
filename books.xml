@@ -607,14 +607,14 @@
         <alias>-</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>deadpool.jpg</img>
+        <img>dp.jpg</img>
     </steelbook>
     <steelbook>
         <title>Deadpool 2</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>deadpool.jpg</img>
+        <img>dp2.jpg</img>
     </steelbook>
     <steelbook>
         <title>Game of Thrones: Season 1</title>
@@ -698,21 +698,21 @@
         <alias>-</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>.jpg</img>
+        <img>mr1.jpg</img>
     </steelbook>    
     <steelbook>
-        <title>Maze Runner: Scorched Earth</title>
+        <title>Maze Runner: The Scorch Trials</title>
         <alias>-</alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>.jpg</img>
+        <img>mr2.jpg</img>
     </steelbook>    
     <steelbook>
         <title>Maze Runner: The Death Cure</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>.jpg</img>
+        <img>mr3.jpg</img>
     </steelbook>    
     <steelbook>
         <title>Harry Potter and the Philosopher's Stone</title>
@@ -775,21 +775,21 @@
         <alias>-</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>fanta.jpg</img>
+        <img>fb1.jpg</img>
     </steelbook>
     <steelbook>
         <title>Fantastic Beasts: The Crimes of Grindelwald</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>fanta2.jpg</img>
+        <img>fb2.jpg</img>
     </steelbook>
     <steelbook>
         <title>Fantastic Beasts: The Secrets of Dumbledore</title>
         <alias>-</alias>
         <release>2022</release>
         <format>Blu-ray</format>
-        <img>fanta3.jpg</img>
+        <img>fb3.jpg</img>
     </steelbook>
     <steelbook>
         <title>Men in Black International</title>
@@ -855,11 +855,60 @@
         <img>ff8.jpg</img>
     </steelbook>
     <steelbook>
-        <title></title>
+        <title>Silent Hill</title>
         <alias>-</alias>
-        <release></release>
+        <release>2006</release>
         <format>Blu-ray</format>
-        <img>.jpg</img>
+        <img>silenthill.jpg</img>
+    </steelbook>    
+    <steelbook>
+        <title>Godzilla</title>
+        <alias>-</alias>
+        <release>2014</release>
+        <format>Blu-ray</format>
+        <img>godzilla.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Godzilla</title>
+        <alias>-</alias>
+        <release>2014</release>
+        <format>Blu-ray</format>
+        <img>godzilla_2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Blair Witch Project</title>
+        <alias>-</alias>
+        <release>1999</release>
+        <format>Blu-ray</format>
+        <img>bwp.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Blair Witch</title>
+        <alias>-</alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>bw.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Monsters</title>
+        <alias>-</alias>
+        <release>2010</release>
+        <format>Blu-ray</format>
+        <img>monster.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Monsters</title>
+        <alias>-</alias>
+        <release>2010</release>
+        <format>Blu-ray</format>
+        <img>monster_2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Evil Dead 2</title>
+        <alias>StudioCanal</alias>
+        <release>1987</release>
+        <format>Blu-ray</format>
+        <img>ed2.jpg</img>
     </steelbook>
     <!--
     <steelbook>
