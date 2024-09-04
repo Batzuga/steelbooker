@@ -13,31 +13,59 @@ else
 let doc;
 let srch;
 
-xmlhttp.onload = function() {
-    var xmlDoc = new DOMParser().parseFromString(xmlhttp.responseText,'text/xml');
-    doc = xmlDoc;
-    return;
-    document.write("<table border='1'>");
-    var x=xmlDoc.getElementsByTagName("steelbook");
-    for (i=0;i<x.length;i++)
-    { 
-        document.write("<tr><td>");
-        document.write(x[i].getElementsByTagName("c_id")[0].childNodes[0].nodeValue);
-        document.write("</td><td>");
-        document.write(x[i].getElementsByTagName("facebook_id")[0].childNodes[0].nodeValue);
-        document.write("</td></tr>");
+xmlhttp.onreadystatechange = function(v, a, d) {
+    if(this.readyState == 4 && this.status == 200)
+    {
+        var tName = xmlhttp.responseXML.documentElement.tagName;
+        var xmlDoc = new DOMParser().parseFromString(xmlhttp.responseText,'text/xml');
+        if(tName == "steelbooks")
+        {
+            doc = xmlDoc;
+        }
+        else if(tName == "search")
+        {
+            srch = xmlDoc;
+        }
+        return;
+        document.write("<table border='1'>");
+        var x=xmlDoc.getElementsByTagName("steelbook");
+        for (i=0;i<x.length;i++)
+        { 
+            document.write("<tr><td>");
+            document.write(x[i].getElementsByTagName("c_id")[0].childNodes[0].nodeValue);
+            document.write("</td><td>");
+            document.write(x[i].getElementsByTagName("facebook_id")[0].childNodes[0].nodeValue);
+            document.write("</td></tr>");
+        }
+        document.write("</table>");
     }
-    document.write("</table>");
-
 }
 
 
-xmlhttp.open("GET","books.xml",false);
+xmlhttp.open("GET", "books.xml", false);
+xmlhttp.send();
+
+xmlhttp.open("GET", "search.xml", false);
 xmlhttp.send();
 
 document.addEventListener('DOMContentLoaded', function () {
     CreateList(doc);
+    CreateFilters(srch);
 });
+
+function CreateFilters(xmlDoc)
+{
+    console.log(xmlDoc);
+    let full = "";
+    var opts = xmlDoc.getElementsByTagName("name");
+    console.log(opts);
+    for(i = 0; i < opts.length; i++)
+    {
+        var n = opts[i].innerHTML;
+        full += `<option value="${n}">${n}</option>`;
+    }
+    document.getElementById("Collection").innerHTML += full;
+}
 function CreateList(xmlDoc)
 {
     console.log(xmlDoc);
@@ -82,6 +110,8 @@ function FilterList()
     var o = document.getElementById("owned").checked;
     var no = document.getElementById("notowned").checked;
     var w = document.getElementById("wishlist").checked;
+
+    var c = document.getElementById("Collection")
     for(i = 0; i < books.length; i++)
     {
         var title = books[i].getElementsByTagName("title")[0].innerHTML;
@@ -90,9 +120,10 @@ function FilterList()
         var owned = books[i].getElementsByTagName("status")[0].innerHTML;
         if((owned == "Owned" && o) || (owned == "Not Owned" && no) || (owned == "Wishlist" && w))
         {
-            var year = books[i].getElementsByTagName("release")[0].innerHTML;
             var alias = books[i].getElementsByTagName("alias")[0].innerHTML;
+            if(c.value != "" && c.value != alias) continue;
             if(alias == "") alias = "-";
+            var year = books[i].getElementsByTagName("release")[0].innerHTML;
             var format = books[i].getElementsByTagName("format")[0].innerHTML;
             
             var img = books[i].getElementsByTagName("img")[0].innerHTML;
