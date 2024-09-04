@@ -5,1281 +5,1465 @@
         <alias>Zavvi</alias>
         <release>2001</release>
         <format>Blu-ray + 4k</format>
-        <img>lotr-fotr.jpg</img>
+        <img>lotr-fotr.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Lord of the Rings: Two Towers</title>
         <alias>Zavvi</alias>
         <release>2002</release>
         <format>Blu-ray + 4k</format>
-        <img>lotr-tt.jpg</img>
+        <img>lotr-tt.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Lord of the Rings: Return of the King</title>
         <alias>Zavvi</alias>
         <release>2003</release>
         <format>Blu-ray + 4k</format>
-        <img>lotr-rotk.jpg</img>
+        <img>lotr-rotk.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Hobbit: An Unexpected Journey</title>
         <alias>Zavvi</alias>
         <release>2012</release>
         <format>Blu-ray</format>
-        <img>hobbit-uj.jpg</img>
+        <img>hobbit-uj.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Hobbit: The Desolation of Smaug</title>
         <alias>Zavvi</alias>
         <release>2013</release>
         <format>Blu-ray</format>
-        <img>hobbit-dos.jpg</img>
+        <img>hobbit-dos.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Hobbit: The Battle of the Five Armies</title>
         <alias>Zavvi</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>hobbit-botfa.jpg</img>
+        <img>hobbit-botfa.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Ghostbusters</title>
         <alias>Project Popart</alias>
         <release>1984</release>
         <format>Blu-ray</format>
-        <img>ghostbusters.jpg</img>
+        <img>ghostbusters.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Ghostbusters 2</title>
         <alias>Project Popart</alias>
         <release>1989</release>
         <format>Blu-ray</format>
-        <img>ghostbusters2.jpg</img>
+        <img>ghostbusters2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Ghostbusters</title>
         <alias>Project Popart</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>ghostbustersf.jpg</img>
+        <img>ghostbustersf.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Halloween II</title>
         <alias>Scream Factory</alias>
         <release>1981</release>
         <format>Blu-ray</format>
-        <img>hween2.jpg</img>
+        <img>hween2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Motel Hell</title>
         <alias>Scream Factory</alias>
         <release>1980</release>
         <format>Blu-ray</format>
-        <img>motelhell.jpg</img>
+        <img>motelhell.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Slumber Party Massacre</title>
         <alias>Scream Factory</alias>
         <release>1982</release>
         <format>Blu-ray</format>
-        <img>slumberparty.jpg</img>
+        <img>slumberparty.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Battle Beyond The Stars</title>
         <alias>Scream Factory</alias>
         <release>1980</release>
         <format>Blu-ray</format>
-        <img>battlebeyond.jpg</img>
+        <img>battlebeyond.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Serenity</title>
         <alias>Reel Heroes</alias>
         <release>2005</release>
         <format>Blu-ray</format>
-        <img>serenity.jpg</img>
+        <img>serenity.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Hellraiser 1-3</title>
         <alias>-</alias>
         <release>1987</release>
         <format>Blu-ray</format>
-        <img>hellraiser-trilogy.jpg</img>
+        <img>hellraiser-trilogy.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Carrie</title>
         <alias>Arrow</alias>
         <release>1976</release>
         <format>Blu-ray</format>
-        <img>carrie.jpg</img>
+        <img>carrie.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Chucky: Season 1</title>
         <alias>Zavvi</alias>
         <release>2021</release>
         <format>Blu-ray</format>
-        <img>chuckys1.jpg</img>
+        <img>chuckys1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Child's Play</title>
         <alias>-</alias>
         <release>1988</release>
         <format>Blu-ray</format>
-        <img>childsplay1.jpg</img>
+        <img>childsplay1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Child's Play 2</title>
         <alias>-</alias>
         <release>1990</release>
         <format>Blu-ray</format>
-        <img>childsplay2.jpg</img>
+        <img>childsplay2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Child's Play 3</title>
         <alias>-</alias>
         <release>1991</release>
         <format>Blu-ray</format>
-        <img>childsplay3.jpg</img>
+        <img>childsplay3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Candyman</title>
         <alias>Zavvi</alias>
         <release>1992</release>
         <format>Blu-ray</format>
-        <img>candyman.jpg</img>
+        <img>candyman.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Dracula</title>
         <alias>Alex Ross</alias>
         <release>1931</release>
         <format>Blu-ray</format>
-        <img>dracula.jpg</img>
+        <img>dracula.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Frankenstein</title>
         <alias>Alex Ross</alias>
         <release>1931</release>
         <format>Blu-ray</format>
-        <img>frank.jpg</img>
+        <img>frank.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Wolf Man</title>
         <alias>Alex Ross</alias>
         <release>1941</release>
         <format>Blu-ray</format>
-        <img>wolf.jpg</img>
+        <img>wolf.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Invisible man</title>
         <alias>Alex Ross</alias>
         <release>1933</release>
         <format>Blu-ray</format>
-        <img>invisible.jpg</img>
+        <img>invisible.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Mummy</title>
         <alias>Alex Ross</alias>
         <release>1932</release>
         <format>Blu-ray</format>
-        <img>mummy.jpg</img>
+        <img>mummy.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Bride of Frankenstein</title>
         <alias>Alex Ross</alias>
         <release>1935</release>
         <format>Blu-ray</format>
-        <img>bride.jpg</img>
+        <img>bride.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Creature from Black Lagoon</title>
         <alias>Alex Ross</alias>
         <release>1954</release>
         <format>Blu-ray</format>
-        <img>lagoon.jpg</img>
+        <img>lagoon.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Avatar</title>
         <alias>-</alias>
         <release>2009</release>
         <format>Blu-ray</format>
-        <img>avatar.jpg</img>
+        <img>avatar.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Avatar: Way of the Water</title>
         <alias>-</alias>
         <release>2022</release>
         <format>Blu-ray</format>
-        <img>avatar2.jpg</img>
+        <img>avatar2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Back to the Future</title>
         <alias>Zavvi</alias>
         <release>1985</release>
         <format>Blu-ray</format>
-        <img>backfuture.jpg</img>
+        <img>backfuture.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Back to the Future 2</title>
         <alias>Zavvi</alias>
         <release>1989</release>
         <format>Blu-ray</format>
-        <img>backfuture2.jpg</img>
+        <img>backfuture2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Back to the Future 3</title>
         <alias>Zavvi</alias>
         <release>1990</release>
         <format>Blu-ray</format>
-        <img>backfuture3.jpg</img>
+        <img>backfuture3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 1</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead1.jpg</img>
+        <img>walkingdead1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 2</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead2.jpg</img>
+        <img>walkingdead2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 3</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead3.jpg</img>
+        <img>walkingdead3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 4</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead4.jpg</img>
+        <img>walkingdead4.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 5</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead5.jpg</img>
+        <img>walkingdead5.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 6</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead6.jpg</img>
+        <img>walkingdead6.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>    
     <steelbook>
         <title>The Walking Dead: Season 7</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead7.jpg</img>
+        <img>walkingdead7.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 8</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead8.jpg</img>
+        <img>walkingdead8.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 9</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead9.jpg</img>
+        <img>walkingdead9.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>The Walking Dead: Season 10</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead10.jpg</img>
+        <img>walkingdead10.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Walking Dead: Season 11</title>
         <alias>Jock</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>walkingdead11.jpg</img>
+        <img>walkingdead11.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>
     <steelbook>
         <title>Nosferatu the Vampyre</title>
         <alias>-</alias>
         <release>1979</release>
         <format>Blu-ray</format>
-        <img>nosferatu.jpg</img>
+        <img>nosferatu.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Ready Player One</title>
         <alias>Zavvi</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>rpone.jpg</img>
+        <img>rpone.jpg</img>  
+        <status>Owned</status>
     </steelbook>   
     <steelbook>
         <title>Zombieland</title>
         <alias>Project Popart</alias>
         <release>2009</release>
         <format>Blu-ray</format>
-        <img>zombieland.jpg</img>
+        <img>zombieland.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Popstar: Never Stop Never Stopping</title>
         <alias>Project Popart</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>popstar.jpg</img>
+        <img>popstar.jpg</img>  
+        <status>Owned</status>
     </steelbook>   
     <steelbook>
         <title>Sharknado</title>
         <alias>Project Popart</alias>
         <release>2013</release>
         <format>Blu-ray</format>
-        <img>sharknado.jpg</img>
+        <img>sharknado.jpg</img>  
+        <status>Owned</status>
     </steelbook>   
     <steelbook>
         <title>Pineapple Express</title>
         <alias>Project Popart</alias>
         <release>2008</release>
         <format>Blu-ray</format>
-        <img>pineapple.jpg</img>
+        <img>pineapple.jpg</img>  
+        <status>Owned</status>
     </steelbook>   
     <steelbook>
         <title>Resident Evil</title>
         <alias>Project Popart</alias>
         <release>2002</release>
         <format>Blu-ray</format>
-        <img>re.jpg</img>
+        <img>re.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>     
     <steelbook>
         <title>Resident Evil: Apocalypse</title>
         <alias>Project Popart</alias>
         <release>2004</release>
         <format>Project Popart</format>
-        <img>re2.jpg</img>
+        <img>re2.jpg</img>  
+        <status>Owned</status>
     </steelbook>   
     <steelbook>
         <title>Resident Evil: Extinction</title>
         <alias>Project Popart</alias>
         <release>2007</release>
         <format>Blu-ray</format>
-        <img>re3.jpg</img>
+        <img>re3.jpg</img>  
+        <status>Owned</status>
     </steelbook>   
     <steelbook>
         <title>Resident Evil: Afterlife</title>
         <alias>Project Popart</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>re4.jpg</img>
+        <img>re4.jpg</img>  
+        <status>Owned</status>
     </steelbook>   
     <steelbook>
         <title>Resident Evil: Retribution</title>
         <alias>Project Popart</alias>
         <release>2012</release>
         <format>Blu-ray</format>
-        <img>re5.jpg</img>
+        <img>re5.jpg</img>  
+        <status>Owned</status>
     </steelbook>   
     <steelbook>
         <title>Resident Evil: The Final Chapter</title>
         <alias>Project Popart</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>re6.jpg</img>
+        <img>re6.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>   
      <steelbook>
         <title>Breaking Bad: Season 1</title>
         <alias>Steadman</alias>
         <release>2008</release>
         <format>Blu-ray</format>
-        <img>bb1.jpg</img>
+        <img>bb1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
      <steelbook>
         <title>Breaking Bad: Season 2</title>
         <alias>Steadman</alias>
         <release>2008</release>
         <format>Blu-ray</format>
-        <img>bb2.jpg</img>
+        <img>bb2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
      <steelbook>
         <title>Breaking Bad: Season 3</title>
         <alias>Steadman</alias>
         <release>2008</release>
         <format>Blu-ray</format>
-        <img>bb3.jpg</img>
+        <img>bb3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
      <steelbook>
         <title>Breaking Bad: Season 4</title>
         <alias>Steadman</alias>
         <release>2008</release>
         <format>Blu-ray</format>
-        <img>bb4.jpg</img>
+        <img>bb4.jpg</img>  
+        <status>Owned</status>
     </steelbook>
      <steelbook>
         <title>Breaking Bad: Season 5</title>
         <alias>Steadman</alias>
         <release>2008</release>
         <format>Blu-ray</format>
-        <img>bb5.jpg</img>
+        <img>bb5.jpg</img>  
+        <status>Owned</status>
     </steelbook>
      <steelbook>
         <title>Breaking Bad: Season Finale</title>
         <alias>Steadman</alias>
         <release>2008</release>
         <format>Blu-ray</format>
-        <img>bbf.jpg</img>
+        <img>bbf.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Spring</title>
         <alias>-</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>spring.jpg</img>
+        <img>spring.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Jurassic Park</title>
         <alias>-</alias>
         <release>1993</release>
         <format>Blu-ray</format>
-        <img>jp1.jpg</img>
+        <img>jp1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Jurassic Park: The Lost World</title>
         <alias>-</alias>
         <release>1997</release>
         <format>Blu-ray</format>
-        <img>jp2.jpg</img>
+        <img>jp2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Jurassic Park 3</title>
         <alias>-</alias>
         <release>2001</release>
         <format>Blu-ray</format>
-        <img>jp3.jpg</img>
+        <img>jp3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Jurassic World</title>
         <alias>-</alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>jw1.jpg</img>
+        <img>jw1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Jurassic World: Fallen Kingdom</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>jw2.jpg</img>
+        <img>jw2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Jurassic World: Dominion</title>
         <alias>-</alias>
         <release>2022</release>
         <format>Blu-ray</format>
-        <img>jw3.jpg</img>
+        <img>jw3.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>
     <steelbook>
         <title>Friday the 13th</title>
         <alias>-</alias>
         <release>1980</release>
         <format>Blu-ray</format>
-        <img>f13_2.jpg</img>
+        <img>f13_2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Friday the 13th</title>
         <alias>Mondo</alias>
         <release>1980</release>
         <format>Blu-ray</format>
-        <img>f13.jpg</img>
+        <img>f13.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Finding Dory</title>
         <alias>-</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>dory.jpg</img>
+        <img>dory.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>It</title>
         <alias>-</alias>
         <release>1990</release>
         <format>Blu-ray</format>
-        <img>itog.jpg</img>
+        <img>itog.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>It: Chapter One</title>
         <alias>Zavvi Collection</alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>it1.jpg</img>
+        <img>it1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>It: Chapter Two</title>
         <alias>Zavvi Collection</alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>it2.jpg</img>
+        <img>it2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>It: Chapter Two</title>
         <alias>-</alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>it2_2.jpg</img>
+        <img>it2_2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Hereditary</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>hereditary.jpg</img>
+        <img>hereditary.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>A Star is Born</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>sib.jpg</img>
+        <img>sib.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Train to Busan + Seoul Station</title>
         <alias>-</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>busanstation.jpg</img>
+        <img>busanstation.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Peninsula</title>
         <alias>-</alias>
         <release>2020</release>
         <format>Blu-ray</format>
-        <img>peninsula.jpg</img>
+        <img>peninsula.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Parasite</title>
         <alias>-</alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>parasite.jpg</img>
+        <img>parasite.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Black Sails: Season 1-2</title>
         <alias>-</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>blacksails1.jpg</img>
+        <img>blacksails1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Black Sails: Season 3-4</title>
         <alias>-</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>blacksails2.jpg</img>
+        <img>blacksails2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>American Gods: Season 1</title>
         <alias>-</alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>ags1.jpg</img>
+        <img>ags1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Tucker and Dale vs. Evil</title>
         <alias>-</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>tucker.jpg</img>
+        <img>tucker.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Dark Tower</title>
         <alias>-</alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>darktower.jpg</img>
+        <img>darktower.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Deadpool</title>
         <alias>-</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>dp.jpg</img>
+        <img>dp.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Deadpool 2</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>dp2.jpg</img>
+        <img>dp2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Game of Thrones: Season 1</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>got1.jpg</img>
+        <img>got1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Game of Thrones: Season 2</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>got2.jpg</img>
+        <img>got2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Game of Thrones: Season 3</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>got3.jpg</img>
+        <img>got3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Game of Thrones: Season 4</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>got4.jpg</img>
+        <img>got4.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Game of Thrones: Season 5</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>got5.jpg</img>
+        <img>got5.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Game of Thrones: Season 6</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>got6.jpg</img>
+        <img>got6.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>How to Train Your Dragon</title>
         <alias>-</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>httyd1.jpg</img>
+        <img>httyd1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>How to Train Your Dragon 2</title>
         <alias>-</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>httyd2.jpg</img>
+        <img>httyd2.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>How to Train Your Dragon 3</title>
         <alias>-</alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>httyd3.jpg</img>
+        <img>httyd3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Knock at the Cabin</title>
         <alias>-</alias>
         <release>2023</release>
         <format>Blu-ray</format>
-        <img>knock.jpg</img>
+        <img>knock.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Cabin in the Woods</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>cabinwoods.jpg</img>
+        <img>cabinwoods.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>The Maze Runner</title>
         <alias>-</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>mr1.jpg</img>
+        <img>mr1.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>    
     <steelbook>
         <title>Maze Runner: The Scorch Trials</title>
         <alias>-</alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>mr2.jpg</img>
+        <img>mr2.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Maze Runner: The Death Cure</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>mr3.jpg</img>
+        <img>mr3.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Harry Potter and the Philosopher's Stone</title>
         <alias>-</alias>
         <release>2001</release>
         <format>Blu-ray</format>
-        <img>hp1.jpg</img>
+        <img>hp1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Chamber of Secrets</title>
         <alias>-</alias>
         <release>2002</release>
         <format>Blu-ray</format>
-        <img>hp2.jpg</img>
+        <img>hp2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Prisoner of Azkaban</title>
         <alias>-</alias>
         <release>2004</release>
         <format>Blu-ray</format>
-        <img>hp3.jpg</img>
+        <img>hp3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Goblet of Fire</title>
         <alias>-</alias>
         <release>2005</release>
         <format>Blu-ray</format>
-        <img>hp4.jpg</img>
+        <img>hp4.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Order of Phoenix</title>
         <alias>-</alias>
         <release>2007</release>
         <format>Blu-ray</format>
-        <img>hp5.jpg</img>
+        <img>hp5.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Harry Potter and the Half-Blooded Prince</title>
         <alias>-</alias>
         <release>2009</release>
         <format>Blu-ray</format>
-        <img>hp6.jpg</img>
+        <img>hp6.jpg</img>  
+        <status>Owned</status>
     </steelbook>
         <steelbook>
         <title>Harry Potter and the Deathly Hallows: Part 1</title>
         <alias>-</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>hp7.jpg</img>
+        <img>hp7.jpg</img>  
+        <status>Owned</status>
     </steelbook>
         <steelbook>
         <title>Harry Potter and the Deathly Hallows: Part 2</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>hp8.jpg</img>
+        <img>hp8.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fantastic Beasts and Where to Find Them</title>
         <alias>-</alias>
         <release>2016</release>
         <format>Blu-ray + 3D</format>
-        <img>fb1.jpg</img>
+        <img>fb1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fantastic Beasts: The Crimes of Grindelwald</title>
         <alias>-</alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>fb2.jpg</img>
+        <img>fb2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fantastic Beasts: The Secrets of Dumbledore</title>
         <alias>-</alias>
         <release>2022</release>
         <format>Blu-ray</format>
-        <img>fb3.jpg</img>
+        <img>fb3.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>
     <steelbook>
         <title>Men in Black International</title>
         <alias>-</alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>mib4.jpg</img>
+        <img>mib4.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Fast and the Furious</title>
         <alias>-</alias>
         <release>2001</release>
         <format>Blu-ray</format>
-        <img>ff1.jpg</img>
+        <img>ff1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>2 Fast 2 Furious</title>
         <alias>-</alias>
         <release>2003</release>
         <format>Blu-ray</format>
-        <img>ff2.jpg</img>
+        <img>ff2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Fast and the Furious: Tokyo Drift</title>
         <alias>-</alias>
         <release>2006</release>
         <format>Blu-ray</format>
-        <img>ff3.jpg</img>
+        <img>ff3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fast and Furious</title>
         <alias>-</alias>
         <release>2009</release>
         <format>Blu-ray</format>
-        <img>ff4.jpg</img>
+        <img>ff4.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fast Five</title>
         <alias>-</alias>
         <release>2011</release>
         <format>Blu-ray</format>
-        <img>ff5.jpg</img>
+        <img>ff5.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fast and Furious 6</title>
         <alias>-</alias>
         <release>2013</release>
         <format>Blu-ray</format>
-        <img>ff6.jpg</img>
+        <img>ff6.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Furious 7</title>
         <alias>-</alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>ff7.jpg</img>
+        <img>ff7.jpg</img>  
+        <status>Not Owned</status>
     </steelbook>
     <steelbook>
         <title>The Fate of the Furious</title>
         <alias>-</alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>ff8.jpg</img>
+        <img>ff8.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Silent Hill</title>
         <alias>-</alias>
         <release>2006</release>
         <format>Blu-ray</format>
-        <img>silenthill.jpg</img>
+        <img>silenthill.jpg</img>  
+        <status>Owned</status>
     </steelbook>    
     <steelbook>
         <title>Godzilla</title>
         <alias>-</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>godzilla.jpg</img>
+        <img>godzilla.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Godzilla</title>
         <alias>-</alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>godzilla_2.jpg</img>
+        <img>godzilla_2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Blair Witch Project</title>
         <alias>-</alias>
         <release>1999</release>
         <format>Blu-ray</format>
-        <img>bwp.jpg</img>
+        <img>bwp.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Blair Witch</title>
         <alias>-</alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>bw.jpg</img>
+        <img>bw.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Monsters</title>
         <alias>-</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>monster.jpg</img>
+        <img>monster.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Monsters</title>
         <alias>-</alias>
         <release>2010</release>
         <format>Blu-ray</format>
-        <img>monster_2.jpg</img>
+        <img>monster_2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Evil Dead 2</title>
         <alias>StudioCanal</alias>
         <release>1987</release>
         <format>Blu-ray</format>
-        <img>ed2.jpg</img>
+        <img>ed2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Baby Driver</title>
         <alias></alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>babydrive.jpg</img>
+        <img>babydrive.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Battle Royale</title>
         <alias></alias>
         <release>2000</release>
         <format>Blu-ray</format>
-        <img>royale.jpg</img>
+        <img>royale.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Captain Marvel</title>
         <alias></alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>cptmarvel.jpg</img>
+        <img>cptmarvel.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Venom</title>
         <alias></alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>venom.jpg</img>
+        <img>venom.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Spider-Man: Homecoming</title>
         <alias></alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>spiderhome.jpg</img>
+        <img>spiderhome.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Black Panther</title>
         <alias></alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>panther.jpg</img>
+        <img>panther.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Captain America: Civil War</title>
         <alias></alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>civwar.jpg</img>
+        <img>civwar.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Avengers: Infinity War</title>
         <alias></alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>infwar.jpg</img>
+        <img>infwar.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Avengers: Endgame</title>
         <alias></alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>endgame.jpg</img>
+        <img>endgame.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Casino Royale</title>
         <alias></alias>
         <release>2006</release>
         <format>Blu-ray</format>
-        <img>casino.jpg</img>
+        <img>casino.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Ant-man and the Wasp</title>
         <alias></alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>antwasp.jpg</img>
+        <img>antwasp.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Hurt Locker</title>
         <alias>2008</alias>
         <release></release>
         <format>Blu-ray</format>
-        <img>hurtlocker.jpg</img>
+        <img>hurtlocker.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Guardians of the Galaxy Vol.2</title>
         <alias></alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>gotg2.jpg</img>
+        <img>gotg2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Gremlins</title>
-        <alias></alias>
+        <alias>Iconic Moments</alias>
         <release>1984</release>
         <format>Blu-ray</format>
-        <img>gremlins.jpg</img>
+        <img>gremlins.jpg</img>  
+        <status>Owned</status>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>A Clockwork Orange</title>
-        <alias></alias>
+        <alias>Iconic Moments</alias>
         <release>1971</release>
         <format>Blu-ray</format>
-        <img>orange.jpg</img>
+        <img>orange.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Straight Outta Compton</title>
         <alias></alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>compton.jpg</img>
+        <img>compton.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Shazam</title>
         <alias></alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>shazam.jpg</img>
+        <img>shazam.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Aquaman</title>
         <alias></alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>aquaman.jpg</img>
+        <img>aquaman.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Justice League</title>
         <alias></alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>justice.jpg</img>
+        <img>justice.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Batman</title>
         <alias></alias>
         <release>2022</release>
         <format>Blu-ray</format>
-        <img>batman.jpg</img>
+        <img>batman.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Pet Sematary</title>
         <alias></alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>petsem.jpg</img>
+        <img>petsem.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fear the Walking Dead: Season 1</title>
         <alias></alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>ftwd1.jpg</img>
+        <img>ftwd1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fear the Walking Dead: Season 1</title>
         <alias></alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>ftwd2.jpg</img>
+        <img>ftwd2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Fear the Walking Dead: Season 1</title>
         <alias></alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>ftwd3.jpg</img>
+        <img>ftwd3.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>As Above So Below</title>
         <alias></alias>
         <release>2014</release>
         <format>Blu-ray</format>
-        <img>katakomben.jpg</img>
+        <img>katakomben.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Old</title>
         <alias></alias>
         <release>2021</release>
         <format>Blu-ray</format>
-        <img>old.jpg</img>
+        <img>old.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Halloween</title>
         <alias></alias>
         <release>1978</release>
         <format>Blu-ray</format>
-        <img>hween.jpg</img>
+        <img>hween.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Halloween</title>
         <alias></alias>
         <release>1978</release>
         <format>Blu-ray</format>
-        <img>hween_2.jpg</img>
+        <img>hween_2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Halloween</title>
         <alias></alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>hween17.jpg</img>
+        <img>hween17.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Warcraft</title>
         <alias></alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>warcraft.jpg</img>
+        <img>warcraft.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Excorcist</title>
         <alias></alias>
         <release>1973</release>
         <format>Blu-ray</format>
-        <img>exocist.jpg</img>
+        <img>exocist.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Westworld: Season 1</title>
         <alias></alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>wws1.jpg</img>
+        <img>wws1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Daredevil: Season 1</title>
         <alias></alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>dds1.jpg</img>
+        <img>dds1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Ring</title>
         <alias></alias>
         <release>1998</release>
         <format>Blu-ray</format>
-        <img>ringu.jpg</img>
+        <img>ringu.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Scarface</title>
         <alias></alias>
         <release>1983</release>
         <format>Blu-ray</format>
-        <img>scarface.jpg</img>
+        <img>scarface.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>8 Mile</title>
         <alias></alias>
         <release>2002</release>
         <format>Blu-ray</format>
-        <img>8mile.jpg</img>
+        <img>8mile.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>A Quiet Place</title>
         <alias></alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>quiet1.jpg</img>
+        <img>quiet1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Independence Day: Resurgence</title>
         <alias></alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>id2.jpg</img>
+        <img>id2.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Bourne Supremacy</title>
         <alias></alias>
         <release>2004</release>
         <format>Blu-ray</format>
-        <img>bournesup.jpg</img>
+        <img>bournesup.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Bourne Legacy</title>
         <alias></alias>
         <release>2012</release>
         <format>Blu-ray</format>
-        <img>bourneleg.jpg</img>
+        <img>bourneleg.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Bourne Identity</title>
         <alias></alias>
         <release>2002</release>
         <format>Blu-ray</format>
-        <img>bourneide.jpg</img>
+        <img>bourneide.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Jumanji: Welcome to the Jungle</title>
         <alias></alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>jumanji.jpg</img>
+        <img>jumanji.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Black Mass</title>
         <alias></alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>blackmass.jpg</img>
+        <img>blackmass.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Star Wars: The Last Jedi</title>
         <alias></alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>swlastjedi.jpg</img>
+        <img>swlastjedi.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Star Wars: The Force Awakens</title>
         <alias></alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>swforceawaken.jpg</img>
+        <img>swforceawaken.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Preacher: Season 1</title>
         <alias></alias>
         <release>2016</release>
         <format>Blu-ray</format>
-        <img>preachs1.jpg</img>
+        <img>preachs1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Smoking Aces</title>
         <alias></alias>
         <release>2006</release>
         <format>Blu-ray</format>
-        <img>smokingace.jpg</img>
+        <img>smokingace.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Hunger Games: Catching Fire</title>
         <alias></alias>
         <release>2012</release>
         <format>Blu-ray</format>
-        <img>hunger1.jpg</img>
+        <img>hunger1.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Predator</title>
         <alias></alias>
         <release>1987</release>
         <format>Blu-ray</format>
-        <img>predator.jpg</img>
+        <img>predator.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Crimson Peak</title>
         <alias></alias>
         <release>2015</release>
         <format>Blu-ray</format>
-        <img>crimson.jpg</img>
+        <img>crimson.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>Chronicle</title>
         <alias></alias>
         <release>2012</release>
         <format>Blu-ray</format>
-        <img>chronicle.jpg</img>
+        <img>chronicle.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Death of Superman</title>
         <alias></alias>
         <release>2018</release>
         <format>Blu-ray</format>
-        <img>diesuper.jpg</img>
+        <img>diesuper.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <steelbook>
         <title>The Godfather Part III</title>
         <alias></alias>
         <release>1990</release>
         <format>Blu-ray</format>
-        <img>coda.jpg</img>
+        <img>coda.jpg</img>  
+        <status>Owned</status>
     </steelbook>
     <!--
     <steelbook>
@@ -1287,7 +1471,8 @@
         <alias></alias>
         <release></release>
         <format></format>
-        <img></img>
+        <img></img>  
+        <status>Owned</status>
     </steelbook>
     -->
 </steelbooks>

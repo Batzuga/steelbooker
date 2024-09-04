@@ -51,6 +51,7 @@ function CreateList(xmlDoc)
         var format = books[i].getElementsByTagName("format")[0].innerHTML;
         var title = books[i].getElementsByTagName("title")[0].innerHTML;
         var img = books[i].getElementsByTagName("img")[0].innerHTML;
+        var owned = books[i].getElementsByTagName("status")[0].innerHTML;
         if(title.length == 0 || title == "") continue;
         itemsFound++;
         let part = `
@@ -62,7 +63,7 @@ function CreateList(xmlDoc)
                 <img class="sb-image" src="images/steelbooks/${img}"/>
             </div>
             <div class="sb-tag half">${format}</div>
-            <div class="sb-tag half right">OWNED</div>
+            <div class="sb-tag half right">${owned}</div>
         </div>
         `;
         full += part;
