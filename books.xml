@@ -684,7 +684,7 @@
         <alias>-</alias>
         <release>2023</release>
         <format>Blu-ray</format>
-        <img>knockcabin.jpg</img>
+        <img>knock.jpg</img>
     </steelbook>    
     <steelbook>
         <title>Cabin in the Woods</title>
@@ -803,7 +803,7 @@
         <alias>-</alias>
         <release>2001</release>
         <format>Blu-ray</format>
-        <img>ff.jpg</img>
+        <img>ff1.jpg</img>
     </steelbook>
     <steelbook>
         <title>2 Fast 2 Furious</title>
@@ -915,21 +915,21 @@
         <alias></alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>baby.jpg</img>
+        <img>babydrive.jpg</img>
     </steelbook>
     <steelbook>
         <title>Battle Royale</title>
         <alias></alias>
         <release>2000</release>
         <format>Blu-ray</format>
-        <img>battleroyale.jpg</img>
+        <img>royale.jpg</img>
     </steelbook>
     <steelbook>
         <title>Captain Marvel</title>
         <alias></alias>
         <release>2019</release>
         <format>Blu-ray</format>
-        <img>cptmarv.jpg</img>
+        <img>cptmarvel.jpg</img>
     </steelbook>
     <steelbook>
         <title>Venom</title>
@@ -978,7 +978,7 @@
         <alias></alias>
         <release>2006</release>
         <format>Blu-ray</format>
-        <img>casinoroyale.jpg</img>
+        <img>casino.jpg</img>
     </steelbook>
     <steelbook>
         <title>Ant-man and the Wasp</title>
@@ -999,7 +999,7 @@
         <alias></alias>
         <release>2017</release>
         <format>Blu-ray</format>
-        <img>guardians.jpg</img>
+        <img>gotg2.jpg</img>
     </steelbook>
     <steelbook>
         <title>Gremlins</title>
@@ -1044,11 +1044,242 @@
         <img>justice.jpg</img>
     </steelbook>
     <steelbook>
-        <title></title>
+        <title>Batman</title>
         <alias></alias>
-        <release></release>
+        <release>2022</release>
         <format>Blu-ray</format>
-        <img>.jpg</img>
+        <img>batman.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Pet Sematary</title>
+        <alias></alias>
+        <release>2019</release>
+        <format>Blu-ray</format>
+        <img>petsem.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Fear the Walking Dead: Season 1</title>
+        <alias></alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>ftwd1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Fear the Walking Dead: Season 1</title>
+        <alias></alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>ftwd2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Fear the Walking Dead: Season 1</title>
+        <alias></alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>ftwd3.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>As Above So Below</title>
+        <alias></alias>
+        <release>2014</release>
+        <format>Blu-ray</format>
+        <img>katakomben.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Old</title>
+        <alias></alias>
+        <release>2021</release>
+        <format>Blu-ray</format>
+        <img>old.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Halloween</title>
+        <alias></alias>
+        <release>1978</release>
+        <format>Blu-ray</format>
+        <img>hween.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Halloween</title>
+        <alias></alias>
+        <release>1978</release>
+        <format>Blu-ray</format>
+        <img>hween_2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Halloween</title>
+        <alias></alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>hween17.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Warcraft</title>
+        <alias></alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>warcraft.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Excorcist</title>
+        <alias></alias>
+        <release>1973</release>
+        <format>Blu-ray</format>
+        <img>exocist.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Westworld: Season 1</title>
+        <alias></alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>wws1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Daredevil: Season 1</title>
+        <alias></alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>dds1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Ring</title>
+        <alias></alias>
+        <release>1998</release>
+        <format>Blu-ray</format>
+        <img>ringu.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Scarface</title>
+        <alias></alias>
+        <release>1983</release>
+        <format>Blu-ray</format>
+        <img>scarface.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>8 Mile</title>
+        <alias></alias>
+        <release>2002</release>
+        <format>Blu-ray</format>
+        <img>8mile.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>A Quiet Place</title>
+        <alias></alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>quiet1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Independence Day: Resurgence</title>
+        <alias></alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>id2.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Bourne Supremacy</title>
+        <alias></alias>
+        <release>2004</release>
+        <format>Blu-ray</format>
+        <img>bournesup.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Bourne Legacy</title>
+        <alias></alias>
+        <release>2012</release>
+        <format>Blu-ray</format>
+        <img>bourneleg.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Bourne Identity</title>
+        <alias></alias>
+        <release>2002</release>
+        <format>Blu-ray</format>
+        <img>bourneide.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Jumanji: Welcome to the Jungle</title>
+        <alias></alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>jumanji.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Black Mass</title>
+        <alias></alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>blackmass.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Star Wars: The Last Jedi</title>
+        <alias></alias>
+        <release>2017</release>
+        <format>Blu-ray</format>
+        <img>swlastjedi.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Star Wars: The Force Awakens</title>
+        <alias></alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>swforceawaken.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Preacher: Season 1</title>
+        <alias></alias>
+        <release>2016</release>
+        <format>Blu-ray</format>
+        <img>preachs1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Smoking Aces</title>
+        <alias></alias>
+        <release>2006</release>
+        <format>Blu-ray</format>
+        <img>smokingace.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Hunger Games: Catching Fire</title>
+        <alias></alias>
+        <release>2012</release>
+        <format>Blu-ray</format>
+        <img>hunger1.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Predator</title>
+        <alias></alias>
+        <release>1987</release>
+        <format>Blu-ray</format>
+        <img>predator.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Crimson Peak</title>
+        <alias></alias>
+        <release>2015</release>
+        <format>Blu-ray</format>
+        <img>crimson.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>Chronicle</title>
+        <alias></alias>
+        <release>2012</release>
+        <format>Blu-ray</format>
+        <img>chronicle.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Death of Superman</title>
+        <alias></alias>
+        <release>2018</release>
+        <format>Blu-ray</format>
+        <img>diesuper.jpg</img>
+    </steelbook>
+    <steelbook>
+        <title>The Godfather Part III</title>
+        <alias></alias>
+        <release>1990</release>
+        <format>Blu-ray</format>
+        <img>coda.jpg</img>
     </steelbook>
     <!--
     <steelbook>

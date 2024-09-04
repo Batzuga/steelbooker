@@ -47,6 +47,7 @@ function CreateList(xmlDoc)
     {
         var year = books[i].getElementsByTagName("release")[0].innerHTML;
         var alias = books[i].getElementsByTagName("alias")[0].innerHTML;
+        if(alias == "") alias = "-";
         var format = books[i].getElementsByTagName("format")[0].innerHTML;
         var title = books[i].getElementsByTagName("title")[0].innerHTML;
         var img = books[i].getElementsByTagName("img")[0].innerHTML;
