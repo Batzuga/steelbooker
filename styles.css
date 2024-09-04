@@ -8,6 +8,9 @@
     --sbhalfwidth: 101px;
     --sbheight: 257px;
     --sbfontsize: 12px;
+
+    --notowned: #753636;
+    --wishlisted: #22bd89;
 }
 html{
     background: #ada05e;

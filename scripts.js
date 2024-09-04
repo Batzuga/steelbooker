@@ -84,8 +84,9 @@ function CreateList(xmlDoc)
         var owned = books[i].getElementsByTagName("status")[0].innerHTML;
         if(title.length == 0 || title == "") continue;
         itemsFound++;
+        var own = owned != "Owned" ? `style="background-color: var(--notowned) !important;"` : "";
         let part = `
-        <div class="sb-preview">
+        <div class="sb-preview" ${own}>
             <p class="sb-tag" title="${title}">${title}</p>
             <div class="sb-tag half" title="Release Year: ${year}">${year}</div>
             <div class="sb-tag half right">${alias}</div>
@@ -130,8 +131,9 @@ function FilterList()
            
             if(title.length == 0 || title == "") continue;
             itemsFound++;
+            var own = owned != "Owned" ? `style="background-color: var(--notowned) !important;"` : "";
             let part = `
-            <div class="sb-preview">
+            <div class="sb-preview" ${own}>
                 <p class="sb-tag" title="${title}">${title}</p>
                 <div class="sb-tag half" title="Release Year: ${year}">${year}</div>
                 <div class="sb-tag half right">${alias}</div>
