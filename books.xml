@@ -751,6 +751,22 @@
         <release>2011</release>
         <format>Blu-ray</format>
         <img>got6.jpg</img>  
+        <status>Not Owned</status>
+    </steelbook>
+    <steelbook>
+        <title>Game of Thrones: Season 7</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>got7.jpg</img>  
+        <status>Not Owned</status>
+    </steelbook>
+    <steelbook>
+        <title>Game of Thrones: Season 8</title>
+        <alias>-</alias>
+        <release>2011</release>
+        <format>Blu-ray</format>
+        <img>got8.jpg</img>  
         <status>Owned</status>
     </steelbook>
     <steelbook>
@@ -1473,7 +1489,7 @@
         <release></release>
         <format></format>
         <img></img>  
-        <status>Owned</status>
+        <status></status>
     </steelbook>
     -->
 </steelbooks>
