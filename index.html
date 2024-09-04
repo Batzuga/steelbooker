@@ -18,12 +18,12 @@
                 <label class="filterLabel" for="wishlist">Show Wishlist</label>
             </div>
             <div class="filterToggle">
-                <input type="checkbox" id="wishlist" name="wishlist" checked />
-                <label class="filterLabel" for="wishlist">Show Owned</label>
+                <input type="checkbox" id="owned" name="owned" checked />
+                <label class="filterLabel" for="owned">Show Owned</label>
             </div>
             <div class="filterToggle">
-                <input type="checkbox" id="wishlist" name="wishlist" checked />
-                <label class="filterLabel" for="wishlist">Show Not Owned</label>
+                <input type="checkbox" id="notowned" name="notowned" checked />
+                <label class="filterLabel" for="notowned">Show Not Owned</label>
             </div>
             <br>
             <label style="margin-left: 25px; color: white;" for="Collection">Collection</label>
@@ -36,7 +36,7 @@
             </select>
 
             <br>
-            <button class="search" onclick=AddSteelbook()>Update</button>
+            <button class="search" onclick=FilterList()>Update</button>
             <br>
             <br>
             <br>
@@ -51,7 +51,7 @@
             <label class="addlabel" for="movierelease">Release Year</label>
             <input class="addfield" type="textbox" id="movierelease"/>
 
-            <label sclass="addlabel" for="movieformat">Format</label>
+            <label class="addlabel" for="movieformat">Format</label>
             <input class="addfield" type="textbox" id="movieformat"/>
 
             <label class="addlabel" for="movieimg">Image</label>
