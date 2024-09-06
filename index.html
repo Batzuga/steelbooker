@@ -8,9 +8,17 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     </head>
     <body>
         <script src="scripts.js"></script>
+        <div class="topbar" id="topbar">
+            <div class="toptitle">Steelbooker</div>
+            <button onclick=OpenMenu() class="burger material-symbols-outlined">
+                <span class="burg material-symbols-outlined">
+                menu
+                </span></button>
+        </div>
         <div class="navside">
             <div class="navtext">Steelbooker</div>
             <div class="filterToggle"> 
@@ -25,13 +33,17 @@
                 <input type="checkbox" id="notowned" name="notowned" checked />
                 <label class="filterLabel" for="notowned">Show Not Owned</label>
             </div>
+            <div class="filterToggle">
+                <input type="checkbox" id="simple" name="simple" checked />
+                <label class="filterLabel" for="simple">Simplified List</label>
+            </div>
             <br>
             <label class="addlabel" for="Collection">Collection</label>
-            <select style="margin: 0 25px 5px 25px" id="Collection">
+            <select class="selDd" id="Collection">
                 <option value="">All Collections</option>
             </select>
             <label class="addlabel" for="Format">Format</label>
-            <select style="margin: 0 25px" id="Format">
+            <select class="selDd" id="Format">
                 <option value="">All Formats</option>
             </select>
 

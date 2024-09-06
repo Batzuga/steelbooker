@@ -87,11 +87,11 @@ function CreateList(xmlDoc)
         var own = owned != "Owned" ? `style="background-color: var(--notowned) !important;"` : "";
         let part = `
         <div class="sb-preview" ${own}>
-            <p class="sb-tag" title="${title}">${title}</p>
+            <p class="sb-tag full" title="${title}">${title}</p>
             <div class="sb-tag half" title="Release Year: ${year}">${year}</div>
             <div class="sb-tag half right">${alias}</div>
             <div class="sb-imageview">
-                <img class="sb-image" src="images/steelbooks/${img}"/>
+                <img class="sb-image" src="images/steelbooks/${img}" onerror="this.onerror=null; this.src='images/steelbooks/missigno.jpg'" />
             </div>
             <div class="sb-tag half">${format}</div>
             <div class="sb-tag half right">${owned}</div>
@@ -134,7 +134,7 @@ function FilterList()
             var own = owned != "Owned" ? `style="background-color: var(--notowned) !important;"` : "";
             let part = `
             <div class="sb-preview" ${own}>
-                <p class="sb-tag" title="${title}">${title}</p>
+                <p class="sb-tag full" title="${title}">${title}</p>
                 <div class="sb-tag half" title="Release Year: ${year}">${year}</div>
                 <div class="sb-tag half right">${alias}</div>
                 <div class="sb-imageview">
@@ -191,4 +191,12 @@ function AddSteelbook()
     `;
     CreateList(doc);
    
+}
+function OpenMenu()
+{
+    var dc =  document.getElementsByClassName("navside")[0];
+    if(dc.style.display == "flex")
+        dc.style.display = "none";
+    else
+        dc.style.display = "flex";
 }
