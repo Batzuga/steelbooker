@@ -136,6 +136,7 @@ html{
         background-color: var(--previewbg);
         border-radius: 10px;
         border: solid 1px black;
+        position: relative;
     }
     .sb-imageview{
         height: var(--sbheight);
@@ -209,6 +210,11 @@ html{
     }
     .topbar{
         display: none;
+    }
+    .selDd{
+        margin: 0 25px 5px 25px;
+        width: 200px;
+        height: 30px;
     }
 }
 @media screen and (orientation: portrait) {
@@ -338,5 +344,68 @@ html{
         text-align: center;
         color: white;
         font-size: 15px;
+    }
+    .list-imageview{
+        height: 200px;
+        display: inline-block;
+        position: relative;   
+        float: left; 
+    }
+    .list-preview{
+        width: 100%;
+        height: 200px;
+        background-color: var(--previewbg);
+        margin-bottom: 5px;
+        border-radius: 5px;
+        position: relative;
+    }
+    .list-tag{
+        font-size: var(--sbfontsize);
+        border: solid 1px white;
+        margin: 5px;
+        padding: 2px 5px;
+        height: min-content;
+        width: min-content;
+        background-color: var(--infotagbg);
+        color: var(--infotagtxt);
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        display: block;
+        overflow: hidden;
+        border-radius: 5px;
+        float: right;
+    }
+    .list-full{
+        width: -webkit-fill-available;
+    }
+    .list-image{
+        height: 190px;
+        width: 150px;
+        margin: 5px;
+        border-radius: 5px;
+    }
+    .list-list{
+        margin-top: 10px;
+    }
+    .list-left{
+        width: auto;
+        height: 100%;
+        display: inline-block;
+    }
+    .list-right{
+        width: auto;
+        height: 100%;
+        display: inline-flex;
+        position: absolute;
+        top: 0;
+        right:0;
+        bottom: 0;
+        left: 155px;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    #bookparent
+    {
+        padding-top: 25px !important;
     }
 }

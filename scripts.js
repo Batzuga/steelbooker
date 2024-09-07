@@ -49,6 +49,7 @@ xmlhttp.open("GET", "search.xml", false);
 xmlhttp.send();
 
 document.addEventListener('DOMContentLoaded', function () {
+    document.getElementById("simple").checked = false;
     CreateList(doc);
     CreateFilters(srch);
 });
@@ -73,6 +74,7 @@ function CreateList(xmlDoc)
     var books = xmlDoc.getElementsByTagName("steelbook");
     console.log(books);
     var itemsFound = 0;
+    var smpl = document.getElementById("simple").checked;
     for(i = 0; i < books.length; i++)
     {
         var year = books[i].getElementsByTagName("release")[0].innerHTML;
@@ -85,18 +87,40 @@ function CreateList(xmlDoc)
         if(title.length == 0 || title == "") continue;
         itemsFound++;
         var own = owned != "Owned" ? `style="background-color: var(--notowned) !important;"` : "";
-        let part = `
-        <div class="sb-preview" ${own}>
-            <p class="sb-tag full" title="${title}">${title}</p>
-            <div class="sb-tag half" title="Release Year: ${year}">${year}</div>
-            <div class="sb-tag half right">${alias}</div>
-            <div class="sb-imageview">
-                <img class="sb-image" src="images/steelbooks/${img}" onerror="this.onerror=null; this.src='images/steelbooks/missigno.jpg'" />
+        let part = "";
+        if(smpl == false)
+        {
+            part = `
+            <div class="sb-preview" ${own}>
+                <p class="sb-tag full" title="${title}">${title}</p>
+                <div class="sb-tag half" title="Release Year: ${year}">${year}</div>
+                <div class="sb-tag half right">${alias}</div>
+                <div class="sb-imageview">
+                    <img class="sb-image" src="images/steelbooks/${img}" onerror="this.onerror=null; this.src='images/steelbooks/missigno.jpg'" />
+                </div>
+                <div class="sb-tag half">${format}</div>
+                <div class="sb-tag half right">${owned}</div>
             </div>
-            <div class="sb-tag half">${format}</div>
-            <div class="sb-tag half right">${owned}</div>
-        </div>
-        `;
+            `;
+        }
+        else {
+            part = `
+            <div class="list-preview" ${own}>
+                <div class="list-left">
+                    <div class="list-imageview">
+                        <img class="list-image" src="images/steelbooks/${img}" onerror="this.onerror=null; this.src='images/steelbooks/missigno.jpg'" />
+                    </div>                  
+                </div> 
+                <div class="list-right">
+                    <p class="list-tag list-full" title="${title}">${title}</p>
+                    <div class="list-tag" title="Release Year: ${year}">${year}</div>
+                    <div class="list-tag">${alias}</div>
+                    <div class="list-tag">${format}</div>
+                    <div class="list-tag">${owned}</div>
+                </div>
+            </div>
+            `;
+        }
         full += part;
     }
     
@@ -111,7 +135,7 @@ function FilterList()
     var o = document.getElementById("owned").checked;
     var no = document.getElementById("notowned").checked;
     var w = document.getElementById("wishlist").checked;
-
+    var smpl = document.getElementById("simple").checked;
     var c = document.getElementById("Collection")
     for(i = 0; i < books.length; i++)
     {
@@ -132,18 +156,40 @@ function FilterList()
             if(title.length == 0 || title == "") continue;
             itemsFound++;
             var own = owned != "Owned" ? `style="background-color: var(--notowned) !important;"` : "";
-            let part = `
-            <div class="sb-preview" ${own}>
-                <p class="sb-tag full" title="${title}">${title}</p>
-                <div class="sb-tag half" title="Release Year: ${year}">${year}</div>
-                <div class="sb-tag half right">${alias}</div>
-                <div class="sb-imageview">
-                    <img class="sb-image" src="images/steelbooks/${img}"/>
+            let part = "";
+            if(smpl == false)
+            {
+                part = `
+                <div class="sb-preview" ${own}>
+                    <p class="sb-tag full" title="${title}">${title}</p>
+                    <div class="sb-tag half" title="Release Year: ${year}">${year}</div>
+                    <div class="sb-tag half right">${alias}</div>
+                    <div class="sb-imageview">
+                        <img class="sb-image" src="images/steelbooks/${img}" onerror="this.onerror=null; this.src='images/steelbooks/missigno.jpg'" />
+                    </div>
+                    <div class="sb-tag half">${format}</div>
+                    <div class="sb-tag half right">${owned}</div>
                 </div>
-                <div class="sb-tag half">${format}</div>
-                <div class="sb-tag half right">${owned}</div>
-            </div>
-            `;
+                `;
+            }
+            else {
+                part = `
+                <div class="list-preview" ${own}>
+                    <div class="list-left">
+                        <div class="list-imageview">
+                            <img class="list-image" src="images/steelbooks/${img}" onerror="this.onerror=null; this.src='images/steelbooks/missigno.jpg'" />
+                        </div>                
+                    </div> 
+                    <div class="list-right">
+                        <p class="list-tag" title="${title}">${title}</p>
+                        <div class="list-tag" title="Release Year: ${year}">${year}</div>
+                        <div class="list-tag">${alias}</div>
+                        <div class="list-tag">${format}</div>
+                        <div class="list-tag">${owned}</div>
+                    </div>
+                </div>
+                `;
+            }
             full += part;
         }
       
