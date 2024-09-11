@@ -214,9 +214,12 @@ async function SendRequest()
 
     const request = new XMLHttpRequest();
     request.open("POST", webhook);
+    request.setRequestHeader('Content-Disposition', 'form-data; name=payload_json');
+    request.setRequestHeader('Content-Type', 'application/json');
     const params = {
-        username: "Hooker",
-        embeds: [{
+        "username": "Hooker",
+        "content": "Hello World",
+        "embeds": [{
             "title" : "Request",
             "fields":[
                 {
