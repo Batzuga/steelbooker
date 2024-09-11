@@ -13,7 +13,7 @@
     --wishlisted: #22bd89;
 }
 html{
-    background: #ada05e;
+    background: #5e9ead;
     font-family: "Manrope", sans-serif;
     font-optical-sizing: auto;
     overflow-y: scroll;
@@ -366,6 +366,7 @@ html{
         padding: 2px 5px;
         height: min-content;
         width: min-content;
+        max-width: 80%;
         background-color: var(--infotagbg);
         color: var(--infotagtxt);
         white-space: nowrap;

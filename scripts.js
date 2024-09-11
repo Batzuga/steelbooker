@@ -197,15 +197,78 @@ function FilterList()
     
     document.getElementById("bookparent").innerHTML = full;
     document.getElementById("found").innerHTML = "Steelbooks Found: " + itemsFound;
+    OpenMenu();
 }
-function SendRequest()
+async function SendRequest()
 {
+    const webhook = "https://discord.com/api/webhooks/1283317169920409641/PYbskH48csGE9NaAYQUn3NOACRSaHKqdwIWiCzcdRn8I5kC4xj4O4QOfFAGH0ZY4fzOF";
     var title;
     var release;
     var alias;
     var imgid;
     var format;
-    var imgurl;
+    var imgurl = document.getElementById("movieimg");
+
+    console.log(imgurl.value);
+
+
+    const request = new XMLHttpRequest();
+    request.open("POST", webhook);
+    const params = {
+        username: "Hooker",
+        embeds: [{
+            "title" : "Request",
+            "fields":[
+                {
+                    "name": "Novie Info",
+                    "value": "Test",
+                }
+            ],
+            "image": {
+                url: "attachment://" + imgurl.value,
+            },
+            "footer": {
+                "text": "Discord Notifier by Batzu Games",
+                "icon_url": "https://i.imgur.com/WaMROAO.png"
+            }
+        }]
+    }
+    console.log(params);
+    console.log(JSON.stringify(params));
+    request.send(JSON.stringify(params));
+}
+
+async function sendAnswer(webhook = 'https://discord.com/api/webhooks/1283317169920409641/PYbskH48csGE9NaAYQUn3NOACRSaHKqdwIWiCzcdRn8I5kC4xj4O4QOfFAGH0ZY4fzOF')
+{
+    let content = "";
+    content = document.getElementById("wheretxt").value;
+    if(content.length == 0 || content.trim() == "") return;
+    const request = new XMLHttpRequest();
+    request.open("POST", webhook);
+    request.setRequestHeader('Content-type', 'application/json');
+    const params = {
+        username: "Paincone",
+        embeds: [{
+            "color" : 65535,
+            "title" : "Review",
+            "thumbnail": {
+                "url": "https://i.imgur.com/tFfE5rv.png",
+            },
+            "fields":[
+                {
+                    "name": "Missä kuulit meistä?",
+                    "value": content
+                }
+            ],
+            "footer": {
+                "text": "Discord Notifier by Batzu Games",
+                "icon_url": "https://i.imgur.com/WaMROAO.png"
+            }
+        }]
+    }
+    request.send(JSON.stringify(params));
+    document.getElementById("reviewform").remove();
+    document.getElementById("doned").style.display = "block";
 }
 
 function AddSteelbook() 
