@@ -18,6 +18,9 @@ html{
     font-optical-sizing: auto;
     overflow-y: scroll;
 }
+input[type=textbox]{
+    color: black;
+}
 @media screen and (orientation: landscape) {
     .addfield{
         box-sizing: border-box;

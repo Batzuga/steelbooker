@@ -51,30 +51,38 @@
             <button class="search" onclick=FilterList()>Update</button>
             <br>
             <br>
-            <br>
-            <div class="navtext">Add Steelbook</div>
+            <div id="requesttab">
+                <div class="navtext">Add Steelbook</div>
 
-            <label class="addlabel" for="movietitle">Title</label>
-            <input class="addfield" type="textbox" id="movietitle"/>
-
-            <label class="addlabel" for="moviecollection">Collection</label>
-            <input class="addfield" type="textbox" id="moviecollection"/>
-
-            <label class="addlabel" for="movierelease">Release Year</label>
-            <input class="addfield" type="textbox" id="movierelease"/>
-
-            <label class="addlabel" for="movieformat">Format</label>
-            <input class="addfield" type="textbox" id="movieformat"/>
-
-            <label class="addlabel" for="movieimg">Image</label>
-            <input style="width: 200px; margin-left: 25px; color: #ada05e" type="file" id="movieimg"/>
-            <br>
-            <label class="addlabel" for="movieextra">Extra Info</label>
-            <input class="addfield" type="textbox" id="movieextra"/>
-
-            <button class="search" onclick=SendRequest()>Add</button>
+                <label class="addlabel" for="movietitle">Title</label>
+                <input class="addfield" type="textbox" id="movietitle"/>
+    
+                <label class="addlabel" for="moviecollection">Collection</label>
+                <input class="addfield" type="textbox" id="moviecollection"/>
+    
+                <label class="addlabel" for="movierelease">Release Year</label>
+                <input class="addfield" type="textbox" id="movierelease"/>
+    
+                <label class="addlabel" for="movieformat">Format</label>
+                <input class="addfield" type="textbox" id="movieformat"/>
+    
+                <label class="addlabel" for="movieimbd">IMDB-link</label>
+                <input class="addfield" type="textbox" id="movieimdb"/>
+    
+                <label class="addlabel" for="movieimg">Image</label>
+                <input style="width: 200px; margin-left: 25px; color: #ada05e" type="file" id="movieimg"/>
+                <br><br>
+                <label class="addlabel" for="movieextra">Extra Info</label>
+                <input class="addfield" type="textbox" id="movieextra"/>
+                <br>
+                <button class="search" onclick=SendRequest()>Add</button>
+            </div>
+           <div id="senttab" style="visibility: hidden;">
+                <p class="navtext">Steelbook added</p>
+                <button onclick="AddAnother()">Add another</button>
+           </div>
         </div>
-        <div class="collection">
+        <div class="collection" hidden>
             <div class="collectiontitle">COLLECTION</div>
             <div id="found" class="collectionresults">Found 0</div>
             <div class="sb-list" id="bookparent">

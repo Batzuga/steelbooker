@@ -199,79 +199,49 @@ function FilterList()
     document.getElementById("found").innerHTML = "Steelbooks Found: " + itemsFound;
     OpenMenu();
 }
+
 async function SendRequest()
 {
     const webhook = "https://discord.com/api/webhooks/1283317169920409641/PYbskH48csGE9NaAYQUn3NOACRSaHKqdwIWiCzcdRn8I5kC4xj4O4QOfFAGH0ZY4fzOF";
-    var title;
-    var release;
-    var alias;
-    var imgid;
-    var format;
-    var imgurl = document.getElementById("movieimg");
+    var form = new FormData();
 
-    console.log(imgurl.value);
+    var title = document.getElementById("movietitle").value;
+    var release = document.getElementById("movierelease").value;
+    var alias = document.getElementById("moviecollection").value;
+    var format = document.getElementById("movieformat").value;
+    var imdb = document.getElementById("movieimdb").value;
+    var extrainfo = document.getElementById("movieextra").value;
 
-
-    const request = new XMLHttpRequest();
-    request.open("POST", webhook);
-    request.setRequestHeader('Content-Disposition', 'form-data; name=payload_json');
-    request.setRequestHeader('Content-Type', 'application/json');
-    const params = {
-        "username": "Hooker",
-        "content": "Hello World",
-        "embeds": [{
-            "title" : "Request",
-            "fields":[
-                {
-                    "name": "Novie Info",
-                    "value": "Test",
-                }
-            ],
-            "image": {
-                url: "attachment://" + imgurl.value,
-            },
-            "footer": {
-                "text": "Discord Notifier by Batzu Games",
-                "icon_url": "https://i.imgur.com/WaMROAO.png"
-            }
-        }]
+    if(document.getElementById("movieimg").files.length == 0)
+    {
+        return;
     }
-    console.log(params);
-    console.log(JSON.stringify(params));
-    request.send(JSON.stringify(params));
-}
+    var file = document.getElementById("movieimg").files[0];
+    
 
-async function sendAnswer(webhook = 'https://discord.com/api/webhooks/1283317169920409641/PYbskH48csGE9NaAYQUn3NOACRSaHKqdwIWiCzcdRn8I5kC4xj4O4QOfFAGH0ZY4fzOF')
-{
-    let content = "";
-    content = document.getElementById("wheretxt").value;
-    if(content.length == 0 || content.trim() == "") return;
+    var info = `
+    <steelbook>
+        <title>${title}</title>
+        <alias>${alias}</alias>
+        <release>${release}</release>
+        <format>${format}</format>
+        <img>${file.name}</img>  
+        <status>Not Owned</status>
+        <imdb>${imdb}</imdb>
+    </steelbook>   
+    Extra:
+    ${extrainfo}
+    `;
+    
+    var form = new FormData();
+    form.append("file", file, file.name);
+    form.append("content", info);
     const request = new XMLHttpRequest();
+    
     request.open("POST", webhook);
-    request.setRequestHeader('Content-type', 'application/json');
-    const params = {
-        username: "Paincone",
-        embeds: [{
-            "color" : 65535,
-            "title" : "Review",
-            "thumbnail": {
-                "url": "https://i.imgur.com/tFfE5rv.png",
-            },
-            "fields":[
-                {
-                    "name": "Missä kuulit meistä?",
-                    "value": content
-                }
-            ],
-            "footer": {
-                "text": "Discord Notifier by Batzu Games",
-                "icon_url": "https://i.imgur.com/WaMROAO.png"
-            }
-        }]
-    }
-    request.send(JSON.stringify(params));
-    document.getElementById("reviewform").remove();
-    document.getElementById("doned").style.display = "block";
+    request.send(form);
+    document.getElementById("requesttab").hidden = true;
+    document.getElementById("senttab").hidden = false;
 }
 
 function AddSteelbook() 
@@ -311,4 +281,33 @@ function OpenMenu()
         dc.style.display = "none";
     else
         dc.style.display = "flex";
+}
+
+function AddAnother()
+{
+    document.getElementById("").hidden = true;
+}
+
+function b64toBlob(b64Data, contentType, sliceSize) {
+    contentType = contentType || '';
+    sliceSize = sliceSize || 512;
+
+    var byteCharacters = atob(b64Data);
+    var byteArrays = [];
+
+    for (var offset = 0; offset < byteCharacters.length; offset += sliceSize) {
+        var slice = byteCharacters.slice(offset, offset + sliceSize);
+
+        var byteNumbers = new Array(slice.length);
+        for (var i = 0; i < slice.length; i++) {
+            byteNumbers[i] = slice.charCodeAt(i);
+        }
+
+        var byteArray = new Uint8Array(byteNumbers);
+
+        byteArrays.push(byteArray);
+    }
+
+    var blob = new Blob(byteArrays, {type: contentType});
+    return blob;
 }
